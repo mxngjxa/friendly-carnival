@@ -1,0 +1,60 @@
+/* Base styling for a neutral/beige theme with professional accents */
+
+body {
+    background-color: #f5f5dc; /* Beige background */
+    color: #333;
+    font-family: 'Roboto Mono', monospace;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #e8e2d9;
+    padding: 10px;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: #2d2d2d;
+    margin-top: 1.5em;
+  }
+  
+  .navbar, .quarto-navbar {
+    background-color: #e8e2d9;
+    padding: 10px;
+  }
+  
+  a {
+    color: #7b5e57;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Table of Contents styling */
+  .quarto-toc {
+    background-color: #e8e2d9;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  /* Content sections */
+  section {
+    margin-bottom: 2em;
+  }
+  
+  /* Code block styling */
+  pre, code {
+    background-color: #eee8d5;
+    padding: 5px;
+    border-radius: 3px;
+  }
+  
+  .title {
+    font-size: xx-large;
+    font-weight: bold;
+    text-decoration-line: underline;
+    text-shadow: 0.5px 0.5px;
+  }

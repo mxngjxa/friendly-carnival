@@ -1,0 +1,96 @@
+---
+title: "Mingjia 'Jacky' Guan"
+format: html
+---
+
+# Professional Summary
+
+Dynamic and trilingual Data Science undergraduate with strong analytical skills, a quick grasp of new concepts, and experience working reliably under pressure. Seeking an entry-level position in ML/AI to contribute impactful solutions.
+
+# Technical Skills
+
+- **Languages:** Python, R, MySQL, Java, ShellScript, TypeScript/JavaScript, HTML, CSS, LaTeX
+- **Frameworks:** Scikit-Learn, TensorFlow, PyTorch, Apache Frameworks (Spark, Hive, Hadoop, Airflow, Flume, Sqoop, NiFi, etc.), Tree Boosting Frameworks, SQLite3, SciPy, Pandas, NumPy, Matplotlib, Seaborn, Tidyverse
+- **Tools:** Jupyter Notebooks, MySQL/PostgreSQL, MongoDB, Linux, Docker, Git/GitHub, Microsoft Office Suite
+
+# Experience
+
+### Machine Learning Intern
+Deledao Technologies | 
+*Jan 2025 – Today*  
+
+- Training, fine-tuning, and deploying a web classification model for the Chinese market.
+
+### CRM Data Engineer
+Deledao Technologies | 
+*October 2024 – Today*  
+
+- Acting as the CRM (HubSpot) admin, ensuring data integrity, automating workflows, and resolving interdepartmental requests.
+- Automating data pipelines to enhance efficiency.
+
+### Teaching Assistant
+Fei Tian College - Middletown | 
+*January 2024 – Today*  
+
+- Worked closely with professors and students in Statistics Courses and Data Mining to enhance learning experience, ensure
+consistent feedback with completed coursework, engage in one-on-one tutoring when needed, and help with exam
+preparation.
+- Developed proficiency in QMD and LaTeX through generating and compiling notes and class slides.
+
+### Health Researcher/Writer, Assistant Show Coordinator
+The Epoch Times | 
+*August 2022 – August 2023*  
+
+- Produced 30+ articles garnering 34,000+ social media shares, demonstrated expertise in creating engaging health content
+by conducting interviews and simplifying complex medical studies for a global audience.
+- [Writer Profile](https://www.theepochtimes.com/author/mingjia-jacky-guan)
+
+# Education
+
+### Fei Tian College - Middletown  
+**BS in Data Science | GPA: 3.75**  
+*January 2023 – May 2025*
+
+### University of Zurich  
+**BS in Physics**  
+*October 2022 – December 2022*
+
+### Northern Academy  
+**High School Diploma with Honors | GPA: 3.93**  
+*September 2019 – June 2022*
+
+# Awards and Certifications
+
+- **Advanced Machine Learning on Google Cloud** | Google Cloud – *November 2024*
+- **Natural Language Processing Specialization** | Deeplearning.AI – *November 2024*
+- **Machine Learning Specialization** | DeepLearning.AI – *October 2024*
+- **IBM Data Engineering Professional Certificate** | IBM – *September 2024*
+- **NYS Comptroller Achievement Award** – *July 2022*
+- 5x Dean’s List, 2x Department Academic Excellence Award – *As of December 2024*
+
+# Projects
+
+### Neural Networks, Deep Learning, and CNNs
+*Oct-Nov 2024*  
+- Built a DNN from scratch with backpropagation, gradient descent, and advanced optimization techniques.
+- Developed CNNs for image classification, neural style transfer, and autonomous vehicle detection using transfer learning.
+
+### Sequence Models and NLP
+*Oct 2024*  
+- Created RNN-based models for text generation and neural machine translation.
+- Trained a transformer network for named entity recognition (NER).
+
+### Multiple Recommendation Systems
+*Spring 2024*  
+- Implemented recommendation systems with MinHashing and Locality-Sensitive Hashing techniques.
+- Conducted extensive EDA on large datasets.
+
+### Additional Projects
+- **GSSR EDA + Data Analysis (R)**: Processed datasets with 5,000+ variables using Tidyverse.
+- **Earthquake Signal Precursors – NASA**: Contributed to sensor system development for seismic event detection.
+
+# Contact
+
+- **Email:** [mingjia.guan@gmail.com](mailto:mingjia.guan@gmail.com)
+- **LinkedIn:** [Mingjia “Jacky” Guan](https://www.linkedin.com/in/mingjia-jacky-guan/)
+- **GitHub:** [mxngjxa](https://github.com/mxngjxa)
