@@ -5,7 +5,7 @@ format: html
 
 # Professional Summary
 
-Dynamic and trilingual Data Science undergraduate with strong analytical skills, a quick grasp of new concepts, and experience working reliably under pressure. Seeking an entry-level position in ML/AI to contribute impactful solutions.
+Dynamic and trilingual Data Scientist with strong analytical thinking, avid communication skills, experience in team projects, able to quickly grasp new concepts, and experience working reliably under pressure as well as against the clock. Incoming ML Engineer/Data Scientist @[Deledao](https://www.deledao.com/) and here to make impactful contributions towards society.
 
 # Technical Skills
 
