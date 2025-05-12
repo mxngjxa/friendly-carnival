@@ -13,15 +13,15 @@ logo:
 
 color:
   palette:
-    forest-green: '#2C6B3D'
-    jungle-green: '#1B5E20'
-    leaf-green: '#8BC34A'
-    earth-brown: '#6D4C41'
+    deep-ocean-blue: '#1A237E'
+    aqua: '#00BCD4'
+    seafoam: '#80DEEA'
+    coral: '#FF7043'
     sky-blue: '#039BE5'
-  foreground: 'forest-green'
-  background: 'leaf-green'
-  primary: 'jungle-green'
-  secondary: 'earth-brown'
+  foreground: 'deep-ocean-blue'
+  background: 'seafoam'
+  primary: 'aqua'
+  secondary: 'coral'
 
 typography:
   fonts:
