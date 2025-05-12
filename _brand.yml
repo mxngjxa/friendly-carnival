@@ -1,0 +1,35 @@
+meta:
+  name:
+    full: 'Mingjia "Jacky" Guan'
+    short: 'Jacky Guan'
+  link:
+    github: 'https://github.com/mxngjxa'
+    linkedin: 'https://linkedin.com/in/mingjia-jacky-guan'
+  description: |
+    'Mingjia "Jacky" Guan is a Machine Learning Engineer at Deledao Technologies. He holds a Bachelor of Science in Data Science and is pursuing a Master of Science in Quantum Computing.'
+
+logo: figures/upload.svg
+
+color:
+  palette:
+    forest-green: '#2C6B3D'
+    jungle-green: '#1B5E20'
+    leaf-green: '#8BC34A'
+    earth-brown: '#6D4C41'
+    sky-blue: '#039BE5'
+  foreground: 'forest-green'
+  background: 'leaf-green'
+  primary: 'jungle-green'
+  secondary: 'earth-brown'
+
+typography:
+  fonts:
+    - family: 'Roboto'
+      source: 'google'
+    - family: 'Merriweather'
+      source: 'google'
+  base: 'Roboto'
+  headings:
+    family: 'Merriweather'
+    weight: 700
+  monospace: 'Courier New'
