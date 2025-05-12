@@ -9,10 +9,10 @@
     font-style: normal;
 }
 
-/* Base styling for a rainforest-themed design with lush greens and natural accents */
+/* Base styling for ocean blue theme */
 body {
-    background-color: #e8f5e9; /* Light green background inspired by rainforest leaves */
-    color: #2c6b3d; /* Deep forest green text color */
+    background-color: #E1F5FE; /* Light ocean blue background */
+    color: #1A237E; /* Deep ocean blue text */
     font-family: 'Roboto', sans-serif;
     line-height: 1.6;
     margin: 0;
@@ -20,55 +20,47 @@ body {
 }
 
 footer {
-    background-color: #c8e6c9; /* Light green footer inspired by foliage */
+    background-color: #B3E5FC; /* Light aqua footer */
     padding: 10px;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #1b5e20; /* Jungle green for headings */
+    color: #00BCD4; /* Aqua headings */
     margin-top: 1.5em;
 }
 
 .navbar, .quarto-navbar {
-    background-color: #c8e6c9; /* Light green navbar inspired by nature */
+    background-color: #B3E5FC; /* Light aqua navbar */
     padding: 10px;
 }
 
 a {
-    color: #8bc34a; /* Leaf green for links */
+    color: #80DEEA; /* Seafoam links */
     text-decoration: none;
 }
 
 a:hover {
-    color: #039be5; /* Sky blue on hover */
+    color: #FF7043; /* Coral hover */
     text-decoration: underline;
 }
 
-/* Table of Contents styling */
 .quarto-toc {
-    background-color: #c8e6c9; /* Light green background for the table of contents */
+    background-color: #B3E5FC; /* Light aqua TOC */
     padding: 10px;
     border-radius: 5px;
 }
 
-/* Content sections */
-section {
-    margin-bottom: 2em;
-}
-
-/* Code block styling */
 pre, code {
-    background-color: #8bc34a; /* Leaf green for code blocks */
-    color: #f5f5dc; /* Beige text for readability */
+    background-color: #00BCD4; /* Aqua code blocks */
+    color: #FFFFFF; /* White text */
     padding: 5px;
     border-radius: 3px;
-    font-family: 'MesloLGS NF', monospace; /* Apply MesloLGS-NF font */
+    font-family: 'MesloLGS NF', monospace;
 }
 
-/* Title styling */
 .title {
     font-size: xx-large;
     font-weight: bold;
     text-decoration-line: underline;
-    text-shadow: 0.5px 0.5px #039be5; /* Subtle sky blue text shadow for depth */
+    text-shadow: 0.5px 0.5px #039BE5; /* Sky blue shadow */
 }
