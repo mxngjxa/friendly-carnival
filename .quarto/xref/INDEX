@@ -16,5 +16,8 @@
   },
   "projects.qmd": {
     "projects.html": "01232851"
+  },
+  "footer.qmd": {
+    "footer.html": "61da4dc2"
   }
 }

@@ -11,6 +11,19 @@ website:
       - projects.qmd
       - publications.qmd
       - contact.qmd
+    right:
+      - icon: github
+        href: 'https://github.com/mxngjxa'
+      - icon: linkedin
+        href: 'https://linkedin.com/in/mingjia-jacky-guan'
+  page-footer:
+    center:
+      - text: '© 2025 MG Technologies, LLC'
+      - icon: github
+        href: 'https://github.com/mxngjxa'
+      - icon: linkedin
+        href: 'https://linkedin.com/in/mingjia-jacky-guan'
+    border: false
 
 format:
   html:
@@ -19,6 +32,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-
