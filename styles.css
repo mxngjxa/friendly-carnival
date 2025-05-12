@@ -9,59 +9,65 @@
     font-style: normal;
 }
 
-/* Base styling for dark ocean theme */
+/* Dark ocean theme with enhanced contrast */
 body {
-    background-color: #133E62; /* Deep ocean background */
-    color: #6EACC9;           /* Light blue text */
-    font-family: 'Roboto Mono', sans-serif;
-    line-height: 1.6;
+    background-color: #031E36;    /* Deep ocean darkness */
+    color: #C4D4E6;              /* Softest blue text */
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.7;
     margin: 0;
-    padding: 20px;
+    padding: 25px;
 }
 
 footer {
-    background-color: #2B5F82; /* Medium-dark blue */
-    padding: 15px;
+    background-color: #04335A;    /* Semi-dark blue */
+    padding: 18px;
+    border-top: 1px solid #4474A3;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #4986A7;          /* Medium blue headings */
-    margin-top: 1.5em;
+    color: #4474A3;             /* Medium blue headings */
+    margin-top: 1.8em;
+    letter-spacing: 0.03em;
 }
 
 .navbar, .quarto-navbar {
-    background-color: #2B5F82; /* Matching footer color */
-    padding: 12px;
+    background-color: #04335A;   /* Matching footer */
+    padding: 15px;
+    border-bottom: 2px solid #4474A3;
 }
 
 a {
-    color: #6EACC9;          /* Light blue links */
+    color: #9ABCE0;             /* Light blue links */
     text-decoration: none;
-    transition: color 0.3s ease;
+    transition: color 0.25s ease-in-out;
 }
 
 a:hover {
-    color: #4986A7;         /* Medium blue on hover */
-    text-decoration: underline;
+    color: #4474A3;            /* Medium blue hover */
+    text-decoration: underline dotted;
 }
 
 .quarto-toc {
-    background-color: #2B5F82; /* Dark sidebar */
-    padding: 15px;
-    border-radius: 4px;
+    background-color: #04335A;  /* Semi-dark sidebar */
+    padding: 18px;
+    border-radius: 5px;
+    border: 1px solid #4474A3;
 }
 
 pre, code {
-    background-color: #4986A7; /* Medium blue code blocks */
-    color: #FFFFFF;          /* White text for contrast */
-    padding: 8px;
-    border-radius: 4px;
+    background-color: #04335A;  /* Semi-dark code blocks */
+    color: #9ABCE0;            /* Light blue text */
+    padding: 10px;
+    border-radius: 5px;
     font-family: 'MesloLGS NF', monospace;
+    border: 1px solid #4474A3;
 }
 
 .title {
     font-size: xx-large;
-    font-weight: bold;
+    font-weight: 800;
     text-decoration-line: underline;
-    text-shadow: 0.5px 0.5px #6EACC9; /* Light blue shadow */
+    text-shadow: 1px 1px #9ABCE0; /* Light blue shadow */
+    color: #C4D4E6;
 }
