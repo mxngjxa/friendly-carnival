@@ -1,22 +1,8 @@
 [
   {
-    "objectID": "project.html",
-    "href": "project.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Coming Soon!"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Coming Soon!"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
     "text": "Coming Soon!"
   },
@@ -26,48 +12,6 @@
     "title": "Mingjia ‘Jacky’ Guan",
     "section": "",
     "text": "Dynamic and trilingual Data Scientist with strong analytical thinking, avid communication skills, experience in team projects, able to quickly grasp new concepts, and experience working reliably under pressure as well as against the clock. Incoming ML Engineer/Data Scientist @Deledao, DevOps Engineer @Sunregen Healthcare AG and here to make impactful contributions towards society."
-  },
-  {
-    "objectID": "index.html#programming-languages",
-    "href": "index.html#programming-languages",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "Programming Languages",
-    "text": "Programming Languages\n  \n\nData Science Frameworks\n         \n\n\nApache Frameworks"
-  },
-  {
-    "objectID": "index.html#web-development",
-    "href": "index.html#web-development",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "Web Development",
-    "text": "Web Development"
-  },
-  {
-    "objectID": "index.html#database-systems",
-    "href": "index.html#database-systems",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "Database Systems",
-    "text": "Database Systems"
-  },
-  {
-    "objectID": "index.html#devops-infrastructure-and-technologies",
-    "href": "index.html#devops-infrastructure-and-technologies",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "DevOps Infrastructure and Technologies",
-    "text": "DevOps Infrastructure and Technologies"
-  },
-  {
-    "objectID": "index.html#cloud-platforms",
-    "href": "index.html#cloud-platforms",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "Cloud Platforms",
-    "text": "Cloud Platforms"
-  },
-  {
-    "objectID": "index.html#academic-tools",
-    "href": "index.html#academic-tools",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "Academic Tools",
-    "text": "Academic Tools"
   },
   {
     "objectID": "index.html#machine-learning-intern",
@@ -147,9 +91,23 @@
     "text": "Additional Projects\n\nGSSR EDA + Data Analysis (R): Processed datasets with 5,000+ variables using Tidyverse.\nEarthquake Signal Precursors – NASA: Contributed to sensor system development for seismic event detection."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Coming Soon!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Coming Soon!"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
     "text": "Coming Soon!"
   }

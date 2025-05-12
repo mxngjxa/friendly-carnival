@@ -25,11 +25,11 @@ color:
 
 typography:
   fonts:
-    - family: 'Roboto'
+    - family: 'Roboto Mono'
       source: 'google'
-  base: 'Roboto'
+  base: 'Roboto Mono'
   headings:
-    family: 'Roboto'
+    family: 'Roboto Mono'
     weight: 700
   monospace: 'MesloLGS NF'  # Use custom font MesloLGS NF for monospace
 
