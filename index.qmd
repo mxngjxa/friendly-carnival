@@ -1,7 +1,6 @@
 ---
 title: "Mingjia 'Jacky' Guan"
 format: html
-brand: true
 ---
 
 # Professional Summary
