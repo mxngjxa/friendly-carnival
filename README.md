@@ -1,1 +1,1 @@
-# Personal Website using Quarto
+# Personal Website written with Quarto
