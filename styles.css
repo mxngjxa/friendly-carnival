@@ -9,10 +9,10 @@
     font-style: normal;
 }
 
-/* Base styling for ocean blue theme */
+/* Base styling for dark ocean theme */
 body {
-    background-color: #E1F5FE; /* Light ocean blue background */
-    color: #1A237E; /* Deep ocean blue text */
+    background-color: #133E62; /* Deep ocean background */
+    color: #6EACC9;           /* Light blue text */
     font-family: 'Roboto', sans-serif;
     line-height: 1.6;
     margin: 0;
@@ -20,41 +20,42 @@ body {
 }
 
 footer {
-    background-color: #B3E5FC; /* Light aqua footer */
-    padding: 10px;
+    background-color: #2B5F82; /* Medium-dark blue */
+    padding: 15px;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #00BCD4; /* Aqua headings */
+    color: #4986A7;          /* Medium blue headings */
     margin-top: 1.5em;
 }
 
 .navbar, .quarto-navbar {
-    background-color: #B3E5FC; /* Light aqua navbar */
-    padding: 10px;
+    background-color: #2B5F82; /* Matching footer color */
+    padding: 12px;
 }
 
 a {
-    color: #80DEEA; /* Seafoam links */
+    color: #6EACC9;          /* Light blue links */
     text-decoration: none;
+    transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #FF7043; /* Coral hover */
+    color: #4986A7;         /* Medium blue on hover */
     text-decoration: underline;
 }
 
 .quarto-toc {
-    background-color: #B3E5FC; /* Light aqua TOC */
-    padding: 10px;
-    border-radius: 5px;
+    background-color: #2B5F82; /* Dark sidebar */
+    padding: 15px;
+    border-radius: 4px;
 }
 
 pre, code {
-    background-color: #00BCD4; /* Aqua code blocks */
-    color: #FFFFFF; /* White text */
-    padding: 5px;
-    border-radius: 3px;
+    background-color: #4986A7; /* Medium blue code blocks */
+    color: #FFFFFF;          /* White text for contrast */
+    padding: 8px;
+    border-radius: 4px;
     font-family: 'MesloLGS NF', monospace;
 }
 
@@ -62,5 +63,5 @@ pre, code {
     font-size: xx-large;
     font-weight: bold;
     text-decoration-line: underline;
-    text-shadow: 0.5px 0.5px #039BE5; /* Sky blue shadow */
+    text-shadow: 0.5px 0.5px #6EACC9; /* Light blue shadow */
 }

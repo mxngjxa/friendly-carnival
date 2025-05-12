@@ -13,15 +13,15 @@ logo:
 
 color:
   palette:
-    deep-ocean-blue: '#1A237E'
-    aqua: '#00BCD4'
-    seafoam: '#80DEEA'
-    coral: '#FF7043'
-    sky-blue: '#039BE5'
-  foreground: 'deep-ocean-blue'
-  background: 'seafoam'
-  primary: 'aqua'
-  secondary: 'coral'
+    ocean1: '#6EACC9'
+    ocean2: '#4986A7'
+    ocean3: '#2B5F82'
+    ocean4: '#133E62'
+  foreground: 'ocean1'  # Lightest blue for text
+  background: 'ocean4'  # Darkest blue for background
+  primary: 'ocean2'     # Mid-tone accent
+  secondary: 'ocean3'   # Darker accent
+
 
 typography:
   fonts:
