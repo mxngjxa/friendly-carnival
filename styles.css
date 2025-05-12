@@ -13,7 +13,7 @@
 body {
     background-color: #031E36;    /* Deep ocean darkness */
     color: #C4D4E6;              /* Softest blue text */
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Mono', sans-serif;
     line-height: 1.7;
     margin: 0;
     padding: 25px;
@@ -45,7 +45,7 @@ a {
 
 a:hover {
     color: #4474A3;            /* Medium blue hover */
-    text-decoration: underline dotted;
+    text-decoration: underline;
 }
 
 .quarto-toc {
