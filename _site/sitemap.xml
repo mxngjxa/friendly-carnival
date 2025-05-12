@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://unique-cat-44c48f.netlify.app/about.html</loc>
-    <lastmod>2025-03-24T21:22:34.086Z</lastmod>
+    <loc>https://unique-cat-44c48f.netlify.app/project.html</loc>
+    <lastmod>2025-05-12T04:23:53.208Z</lastmod>
+  </url>
+  <url>
+    <loc>https://unique-cat-44c48f.netlify.app/publications.html</loc>
+    <lastmod>2025-05-12T04:23:52.160Z</lastmod>
+  </url>
+  <url>
+    <loc>https://unique-cat-44c48f.netlify.app/contact.html</loc>
+    <lastmod>2025-05-12T04:23:53.793Z</lastmod>
   </url>
   <url>
     <loc>https://unique-cat-44c48f.netlify.app/index.html</loc>
-    <lastmod>2025-04-03T18:42:48.405Z</lastmod>
+    <lastmod>2025-05-12T04:24:39.571Z</lastmod>
+  </url>
+  <url>
+    <loc>https://unique-cat-44c48f.netlify.app/about.html</loc>
+    <lastmod>2025-05-12T04:23:55.308Z</lastmod>
   </url>
 </urlset>

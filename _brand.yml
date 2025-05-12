@@ -27,10 +27,10 @@ typography:
   fonts:
     - family: 'Roboto'
       source: 'google'
-    - family: 'Merriweather'
-      source: 'google'
   base: 'Roboto'
   headings:
-    family: 'Merriweather'
+    family: 'Roboto'
     weight: 700
-  monospace: 'Courier New'
+  monospace: 'MesloLGS NF'  # Use custom font MesloLGS NF for monospace
+
+

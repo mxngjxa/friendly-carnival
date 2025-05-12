@@ -4,5 +4,14 @@
   },
   "index.qmd": {
     "index.html": "3cc70fcf"
+  },
+  "contact.qmd": {
+    "contact.html": "eb99b84e"
+  },
+  "publications.qmd": {
+    "publications.html": "5f3e48c0"
+  },
+  "project.qmd": {
+    "project.html": "671edd05"
   }
 }

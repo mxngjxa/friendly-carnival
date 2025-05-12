@@ -1,60 +1,74 @@
-/* Base styling for a neutral/beige theme with professional accents */
+/* Load the custom MesloLGS-NF font */
+@font-face {
+    font-family: 'MesloLGS NF';
+    src: url('fonts/MesloLGS-NF-Regular.ttf') format('truetype'),
+         url('fonts/MesloLGS-NF-Bold.ttf') format('truetype'),
+         url('fonts/MesloLGS-NF-Italic.ttf') format('truetype'),
+         url('fonts/MesloLGS-NF-Bold-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 
+/* Base styling for a rainforest-themed design with lush greens and natural accents */
 body {
-    background-color: #f5f5dc; /* Beige background */
-    color: #333;
-    font-family: 'Roboto Mono', monospace;
+    background-color: #e8f5e9; /* Light green background inspired by rainforest leaves */
+    color: #2c6b3d; /* Deep forest green text color */
+    font-family: 'Roboto', sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 20px;
-  }
-  
-  footer {
-    background-color: #e8e2d9;
+}
+
+footer {
+    background-color: #c8e6c9; /* Light green footer inspired by foliage */
     padding: 10px;
-  }
-  
-  h1, h2, h3, h4, h5, h6 {
-    color: #2d2d2d;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #1b5e20; /* Jungle green for headings */
     margin-top: 1.5em;
-  }
-  
-  .navbar, .quarto-navbar {
-    background-color: #e8e2d9;
+}
+
+.navbar, .quarto-navbar {
+    background-color: #c8e6c9; /* Light green navbar inspired by nature */
     padding: 10px;
-  }
-  
-  a {
-    color: #7b5e57;
+}
+
+a {
+    color: #8bc34a; /* Leaf green for links */
     text-decoration: none;
-  }
-  
-  a:hover {
+}
+
+a:hover {
+    color: #039be5; /* Sky blue on hover */
     text-decoration: underline;
-  }
-  
-  /* Table of Contents styling */
-  .quarto-toc {
-    background-color: #e8e2d9;
+}
+
+/* Table of Contents styling */
+.quarto-toc {
+    background-color: #c8e6c9; /* Light green background for the table of contents */
     padding: 10px;
     border-radius: 5px;
-  }
-  
-  /* Content sections */
-  section {
+}
+
+/* Content sections */
+section {
     margin-bottom: 2em;
-  }
-  
-  /* Code block styling */
-  pre, code {
-    background-color: #eee8d5;
+}
+
+/* Code block styling */
+pre, code {
+    background-color: #8bc34a; /* Leaf green for code blocks */
+    color: #f5f5dc; /* Beige text for readability */
     padding: 5px;
     border-radius: 3px;
-  }
-  
-  .title {
+    font-family: 'MesloLGS NF', monospace; /* Apply MesloLGS-NF font */
+}
+
+/* Title styling */
+.title {
     font-size: xx-large;
     font-weight: bold;
     text-decoration-line: underline;
-    text-shadow: 0.5px 0.5px;
-  }
+    text-shadow: 0.5px 0.5px #039be5; /* Subtle sky blue text shadow for depth */
+}
