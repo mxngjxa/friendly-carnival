@@ -2,4 +2,6 @@
 title: "Publications"
 ---
 
-Coming Soon!
+::: {.callout-note}
+This part of the website is currently under construction.
+:::
