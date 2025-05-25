@@ -33,6 +33,7 @@ website:
 format:
   html:
     theme:
-      - brand
+      light: brand
+      dark: brand
     toc: true
     number-sections: true
