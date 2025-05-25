@@ -33,8 +33,6 @@ website:
 format:
   html:
     theme:
-      - cosmo
       - brand
-    css: styles.css
     toc: true
     number-sections: true
