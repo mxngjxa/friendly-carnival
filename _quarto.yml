@@ -3,14 +3,19 @@ project:
 
 website:
   title: "Jacky's Website"
+  favicon: figures/lemon.svg
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - projects.qmd
-      - publications.qmd
-      - contact.qmd
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: contact.qmd
+        text: Contact
     right:
       - icon: github
         href: 'https://github.com/mxngjxa'
@@ -32,3 +37,4 @@ format:
       - brand
     css: styles.css
     toc: true
+    number-sections: true
