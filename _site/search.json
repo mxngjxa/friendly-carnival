@@ -1,54 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Note\n\n\n\nThis part of the website is currently under construction."
-  },
-  {
-    "objectID": "about.html#programming-languages",
-    "href": "about.html#programming-languages",
-    "title": "About",
-    "section": "1.1 Programming Languages",
-    "text": "1.1 Programming Languages\n  \n\n1.1.1 Data Science Frameworks\n         \n\n\n1.1.2 Apache Frameworks"
-  },
-  {
-    "objectID": "about.html#web-development",
-    "href": "about.html#web-development",
-    "title": "About",
-    "section": "1.2 Web Development",
-    "text": "1.2 Web Development"
-  },
-  {
-    "objectID": "about.html#database-systems",
-    "href": "about.html#database-systems",
-    "title": "About",
-    "section": "1.3 Database Systems",
-    "text": "1.3 Database Systems"
-  },
-  {
-    "objectID": "about.html#devops-infrastructure-and-technologies",
-    "href": "about.html#devops-infrastructure-and-technologies",
-    "title": "About",
-    "section": "1.4 DevOps Infrastructure and Technologies",
-    "text": "1.4 DevOps Infrastructure and Technologies"
-  },
-  {
-    "objectID": "about.html#cloud-platforms",
-    "href": "about.html#cloud-platforms",
-    "title": "About",
-    "section": "1.5 Cloud Platforms",
-    "text": "1.5 Cloud Platforms"
-  },
-  {
-    "objectID": "about.html#academic-tools",
-    "href": "about.html#academic-tools",
-    "title": "About",
-    "section": "1.6 Academic Tools",
-    "text": "1.6 Academic Tools"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mingjia ‘Jacky’ Guan",
@@ -133,24 +84,73 @@
     "text": "6.4 Additional Projects\n\nGSSR EDA + Data Analysis (R): Processed datasets with 5,000+ variables using Tidyverse.\nEarthquake Signal Precursors – NASA: Contributed to sensor system development for seismic event detection."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
+    "objectID": "qmd/publications.html",
+    "href": "qmd/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Note\n\n\n\nThis part of the website is currently under construction."
+  },
+  {
+    "objectID": "qmd/contact.html",
+    "href": "qmd/contact.html",
     "title": "Contact",
     "section": "",
     "text": "Note\n\n\n\nThis part of the website is currently under construction."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
+    "objectID": "qmd/projects.html",
+    "href": "qmd/projects.html",
     "title": "Projects",
     "section": "",
     "text": "Note\n\n\n\nThis part of the website is currently under construction.\n\n\nprint(\"Hello World!\")"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "qmd/about.html",
+    "href": "qmd/about.html",
+    "title": "About",
     "section": "",
     "text": "Note\n\n\n\nThis part of the website is currently under construction."
+  },
+  {
+    "objectID": "qmd/about.html#programming-languages",
+    "href": "qmd/about.html#programming-languages",
+    "title": "About",
+    "section": "1.1 Programming Languages",
+    "text": "1.1 Programming Languages\n  \n\n1.1.1 Data Science Frameworks\n         \n\n\n1.1.2 Apache Frameworks"
+  },
+  {
+    "objectID": "qmd/about.html#web-development",
+    "href": "qmd/about.html#web-development",
+    "title": "About",
+    "section": "1.2 Web Development",
+    "text": "1.2 Web Development"
+  },
+  {
+    "objectID": "qmd/about.html#database-systems",
+    "href": "qmd/about.html#database-systems",
+    "title": "About",
+    "section": "1.3 Database Systems",
+    "text": "1.3 Database Systems"
+  },
+  {
+    "objectID": "qmd/about.html#devops-infrastructure-and-technologies",
+    "href": "qmd/about.html#devops-infrastructure-and-technologies",
+    "title": "About",
+    "section": "1.4 DevOps Infrastructure and Technologies",
+    "text": "1.4 DevOps Infrastructure and Technologies"
+  },
+  {
+    "objectID": "qmd/about.html#cloud-platforms",
+    "href": "qmd/about.html#cloud-platforms",
+    "title": "About",
+    "section": "1.5 Cloud Platforms",
+    "text": "1.5 Cloud Platforms"
+  },
+  {
+    "objectID": "qmd/about.html#academic-tools",
+    "href": "qmd/about.html#academic-tools",
+    "title": "About",
+    "section": "1.6 Academic Tools",
+    "text": "1.6 Academic Tools"
   }
 ]

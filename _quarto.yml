@@ -8,13 +8,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
+      - href: qmd/about.qmd
         text: About
-      - href: projects.qmd
+      - href: qmd/projects.qmd
         text: Projects
-      - href: publications.qmd
+      - href: qmd/publications.qmd
         text: Publications
-      - href: contact.qmd
+      - href: qmd/contact.qmd
         text: Contact
     right:
       - icon: github
@@ -33,7 +33,7 @@ website:
 format:
   html:
     theme:
-      light: brand
-      dark: brand
+      light: minty
+      dark: brand.scss
     toc: true
     number-sections: true

@@ -19,7 +19,7 @@ color:
     ocean_light: '#9ABCE0'
     ocean_super_light: '#C4D4E6'
   foreground: 'ocean_super_light'  # Lightest blue for text
-  background: 'ocean_dark'  # Darkest blue for background
+  # background: 'ocean_dark'  # Darkest blue for background
   primary: 'ocean_medium'     # Mid-tone accent
   secondary: 'ocean_semi_dark'   # Darker accent
 

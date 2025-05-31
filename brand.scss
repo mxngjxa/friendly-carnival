@@ -1,0 +1,31 @@
+/*-- scss:defaults --*/
+// Define colors from _brand.yml as SCSS variables
+// These should ideally be pulled from _brand.yml if Quarto supports that directly,
+// or defined here if _brand.yml is only for high-level theme config.
+// For now, let's hardcode them based on your _brand.yml for clarity in this file.
+$ocean_dark: #031E36;
+$ocean_semi_dark: #04335A;
+$ocean_medium: #4474A3;
+$ocean_light: #9ABCE0;
+$ocean_super_light: #C4D4E6;
+
+// Dark theme specific Bootstrap variable overrides
+$body-bg: $ocean_dark;
+$body-color: $ocean_super_light;
+$link-color: $ocean_light; // A sensible default for links on a dark background
+// Add other variable overrides here as needed, for example:
+// $headings-color: $ocean_super_light;
+// $navbar-bg: $ocean_semi_dark;
+// $footer-bg: $ocean_semi_dark; // If you want a custom footer background for dark theme
+
+/*-- scss:rules --*/
+// You can add custom CSS rules here if needed for the dark theme.
+// For example, to ensure all text uses the primary font for the dark theme:
+// body {
+//   font-family: 'Roboto Mono', monospace;
+// }
+//
+// h1, h2, h3, h4, h5, h6 {
+//   font-family: 'Roboto Mono', monospace;
+//   font-weight: 700;
+// }

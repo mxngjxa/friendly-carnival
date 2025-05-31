@@ -1,23 +1,17 @@
 {
-  "about.qmd": {
-    "about.html": "2caf2f14"
+  "qmd/contact.qmd": {
+    "contact.html": "538603f9"
+  },
+  "qmd/projects.qmd": {
+    "projects.html": "69a952af"
+  },
+  "qmd/publications.qmd": {
+    "publications.html": "dbd32ba5"
+  },
+  "qmd/about.qmd": {
+    "about.html": "36672d00"
   },
   "index.qmd": {
-    "index.html": "3cc70fcf"
-  },
-  "contact.qmd": {
-    "contact.html": "eb99b84e"
-  },
-  "publications.qmd": {
-    "publications.html": "5f3e48c0"
-  },
-  "project.qmd": {
-    "project.html": "671edd05"
-  },
-  "projects.qmd": {
-    "projects.html": "01232851"
-  },
-  "footer.qmd": {
-    "footer.html": "61da4dc2"
+    "index.html": "0d275fa6"
   }
 }
