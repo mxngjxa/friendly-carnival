@@ -35,5 +35,7 @@ format:
     theme:
       light: minty
       dark: brand.scss
+    mainfont: "Roboto Mono"
+    monofont: "MesloLGS NF"
     toc: true
     number-sections: true
