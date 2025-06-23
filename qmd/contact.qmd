@@ -2,6 +2,46 @@
 title: "Contact"
 ---
 
-::: {.callout-note}
-This part of the website is currently under construction.
+## Get In Touch
+
+I'm always interested in connecting with fellow data scientists, researchers, and tech enthusiasts. Whether you have questions about my projects, want to collaborate, or just want to chat about machine learning and data science, I'd love to hear from you!
+
+## Contact Information
+
+**Email:** [mingjia.guan@outlook.com](mailto:mingjia.guan@outlook.com)
+
+**Location:** New York Metropolitan Area, United States
+
+## Connect With Me
+
+
+- **LinkedIn:** [Mingjia “Jacky” Guan](https://www.linkedin.com/in/mingjia-jacky-guan/)
+- **GitHub:** [mxngjxa](https://github.com/mxngjxa)
+- **X:** [@mxngjxa9](https://x.com/mxngjxa9)
+
+
+## What I'm Looking For
+
+::: {.callout-tip}
+## Collaboration Opportunities
+I'm particularly interested in:
+
+- Machine learning and deep learning projects
+- Natural language processing applications
+- Data engineering challenges
+- Open source contributions
+- Research collaborations
+
 :::
+
+## Response Time
+
+I typically respond to emails within 24-48 hours. For urgent matters, please indicate so in your subject line.
+
+## Let's Build Something Amazing Together
+
+Whether you're working on an exciting project, have a research question, or want to discuss the latest developments in AI and machine learning, I'm here to connect. Drop me a line and let's start a conversation!
+
+---
+
+*Feel free to reach out in English, German, or Chinese - I'm comfortable communicating in all three languages.*

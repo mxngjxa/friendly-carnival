@@ -38,4 +38,3 @@ format:
     mainfont: "Roboto Mono"
     monofont: "MesloLGS NF"
     toc: true
-    number-sections: true

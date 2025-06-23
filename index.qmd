@@ -3,53 +3,132 @@ title: "Mingjia 'Jacky' Guan"
 format: html
 ---
 
-::: {.callout-note}
-This part of the website is currently under construction.
-:::
-
 
 # 🌟 Professional Summary
 
-Dynamic and trilingual Data Scientist with strong analytical thinking, avid communication skills, experience in team projects, able to quickly grasp new concepts, and experience working reliably under pressure as well as against the clock. Incoming ML Engineer/Data Scientist @[Deledao](https://www.deledao.com/), DevOps Engineer @[Sunregen Healthcare AG](sunregen.com) and here to make impactful contributions towards society.
+Hi, I'm Jacky. I'm a Machine Learning Engineer at [Deledao](https://www.deledao.com) and recently graduated from [Fei Tian College - Middletown](https://feitian.edu/) with a Bachelor of Science in Data Science, *Magna Cum Laude*. 
+
+I am passionate about technology, leveraging data-driven approaches to solve real-world problems, and continuously expanding my technical skill set. While I mainly focus on the engineering aspect of Machine Learning, I'm no stranger to DevOps, Full-Stack, and engineering. 
+
+Since I'm still early in my career, there is a lot to learn from the field. I will continue my education by pursuing a MS in Quantum Computing to stay ahead of the curve while striving to be a part in revolutionizing the K-12 Ed-Tech landscape with Machine Learning. 
+
+::: {.callout-tip appearance="simple"}
+## However...
+
+This is my website, so I will tell you more about myself. I believe in making the world a better place, something that always starts at the individual level. 
+
+:::
+
+
+Practicing [Falun Dafa](https://faluninfo.net/what-is-falun-gong-falun-dafa/), an ancient spiritual practice rooted in Buddhism, has strengthened my resolve in doing what is right in the current state of affairs. 
+
+On a social level, I've written for the health department @[The Epoch Times](https://www.theepochtimes.com/author/mingjia-jacky-guan) on topics such as immune exhaustion, soaring egg prices, and everything else in-between. 
+
+At the academic level, I enjoy helping peers and students with their work as a Teaching Assistent and drafting up lecture notes for the next batch of undergraduates. I was able to put my DevOps experience to good use @[Sunregen Healthcare AG](sunregen.com), contracting as a system administrator. 
+
+![Stowe 2025](figures/stowe.jpeg){fig-align="center"}
+
+At the same time, I've been skiing since 2008 and run my own little [channel](https://www.ganjingworld.com/s/Dvjmz0zQy3) where you can check out my videos. 
+
 
 # 🛠️ Technical Skills
 
-| **Scope**                                | **Tools**              |
-|----------------------|-----------------------------------------------|
-| **Programming Languages**                  | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=E0E0E0) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=FFFFE0) |
-| *Data Science Frameworks*                |![TensorFlow](https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=F0F0F0) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=FFF5EE)![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black) ![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=scipy&logoColor=FFFF99) ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=ADD8E6) ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=90EE90) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=FFD700) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54) ![Tidyverse](https://img.shields.io/badge/Tidyverse-1A162D?style=for-the-badge&logo=r&logoColor=E6E6FA)|
-| *Apache Frameworks*                   | ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=FFD700) ![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-728E9B?style=for-the-badge&logo=apachenifi&logoColor=black) ![Apache HBase](https://img.shields.io/badge/Apache%20HBase-509ECE?style=for-the-badge&logo=apachehbase&logoColor=FFD700) ![Apache Phoenix](https://img.shields.io/badge/Apache%20Phoenix-F66F07?style=for-the-badge&logo=apachephoenix&logoColor=black) ![Apache Flume](https://img.shields.io/badge/Apache%20Flume-007DAB?style=for-the-badge&logo=apacheflume&logoColor=FFFF00) ![Apache Sqoop](https://img.shields.io/badge/Apache%20Sqoop-46A508?style=for-the-badge&logo=apachesqoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) |
-| **Web Development**                        |![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=F0F0F0) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFE0) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ADD8E6) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFE4E1) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=black)|
-| **Database Systems**                       |![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFD700) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=90EE90) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=FFA500)|
-| **DevOps Infrastructure\n and Technologies** |![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=black)|
-| **Cloud Platforms**                        |![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=FBBC05) ![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)|
-| **Academic Tools**                         |![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=black) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=black)|
+Work nowadays is supercharged by AI. I use [![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](#) to accelerate my workflow as it includes the latest models from 
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#), 
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#), 
+[![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#),
+and 
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
+I frequently browse [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
+for other models to tune and deploy. Using 
+[![Arc](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000)](#)
+has made tab management a breeze. I primarily work on [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+but have my fair share of experience on [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+and am currently deploying this website using [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#). While it is tempting to switch over to [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
+or become a hardcore and use [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#), I'm still more than happy with [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+and the incredible compatibility it offers. Maybe I can try out [![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)](#) or 
+[![Windsurf](https://img.shields.io/badge/Windsurf-0B100F?logo=windsurf&logoColor=fff)](#)
+to catch up to the hype train, but for now I will still try to be a traditional coder.
+
+Technically speaking, I'm not experienced with anything special. You can see [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#), 
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#), and 
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#), along with a bunch of methods and frameworks on there like [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff)](#), 
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#), 
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#), 
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#), 
+[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#), 
+using tools like [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#), 
+workflows like [![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#), and more. While I manage my tasks using 
+[![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
+and making things on the side using [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#) I've learned a lot using [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](#), 
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)](#), 
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)](#), 
+[![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)](#), 
+and have tried out the occasional competition on [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)](#).
+
+If we're going back to the technical side of things, of course I use [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+and am intimidated by [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#), but that is just the beginning of it. While I was never a huge fan of deploying websites with [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#), [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#), 
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#), [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#), [![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)](#), 
+and [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#), 
+frameworks like [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
+and [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#), 
+or scraping the web with [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#). I'm even thinking of writing a package and publishing it to [![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](#). 
+Of course, while [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
+offers the best UI experience with good old [![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)](#), 
+I work mostly in [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#), 
+staying close to traditional flavors like [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#). In any case, something about [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+creeps me out. 
+
+At the core, I code mostly with [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#). It is a good language, unlike [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#), 
+and much preferred over, [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+(or [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#), since it is the way to go). I'm familiar with [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#), 
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#), 
+and of couse a fair bit of [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#) 
+and [![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff)](#)
+to write those docs, but my goal is to learn [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+to be much faster. 
+
+Of course, I use [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) and [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#), but not any of those common social media platforms like 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#),  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](#), or [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#). While I have accounts there, you will barely see me posting anything 
+in any case. 
+
+
+
+Please follow me on [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/mingjia-jacky-guan). It's always intersting that even payment methods like [![Apple Pay](https://img.shields.io/badge/Apple%20Pay-000?logo=applepay&logoColor=fff)](#), 
+[![MasterCard](https://img.shields.io/badge/MasterCard-EB001B?logo=mastercard&logoColor=fff)](#), 
+[![Visa](https://img.shields.io/badge/Visa-1A1F71?logo=visa&logoColor=fff)](#), 
+[![American Express](https://img.shields.io/badge/American%20Express-2E77BC?logo=americanexpress&logoColor=fff)](#), 
+and [![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)
+all get their own badges. I'm a fan of [![Doordash](https://img.shields.io/badge/DoorDash-FF3008?logo=DoorDash&logoColor=white)](#), preferring it over [![Uber Eats](https://img.shields.io/badge/Uber_Eats-5FB709?logo=uber-eats&logoColor=white)](#) and [![Just Eat](https://img.shields.io/badge/Just%20Eat-F36D00?logo=justeat&logoColor=fff)](#), but that's just my preference. These badges are fun to play around with...
+
+
+
 
 # 💼 Experience
 
-## Machine Learning Intern
+## 🌄 Machine Learning Engineer
 Deledao Technologies | 
 *Jan 2025 – Today*  
 
 - Training, fine-tuning, and deploying a web classification model for the Chinese market.
 
-## CRM Data Engineer
+## 🚃 CRM Data Engineer
 Deledao Technologies | 
-*October 2024 – Today*  
+*October 2024 – July 2025*  
 
-- Acting as the CRM (HubSpot) admin, ensuring data integrity, automating workflows, and resolving interdepartmental requests.
-- Automating data pipelines to enhance efficiency.
+- Served as the CRM (HubSpot) admin, ensuring the system runs smoothly and meets the needs of the management and team members.
+- Automated data pipelines to streamline data engineering tasks and improve overall efficiency.
 
-## Teaching Assistant
+## 🪂 Teaching Assistant
 Fei Tian College - Middletown | 
-*January 2024 – Today*  
+*January 2024 – May 2025*  
 
-- Worked closely with professors and students in Statistics Courses and Data Mining to enhance learning experience, ensure
-consistent feedback with completed coursework, engage in one-on-one tutoring when needed, and help with exam
-preparation.
-- Developed proficiency in QMD and LaTeX through generating and compiling notes and class slides.
+- Facilitated online student discussions and actively responded to inquiries on the discussion board.
+- Collaborated with professors and students in both introductory and advanced courses to enhance the learning experience, provide structured feedback on coursework, offer one-on-one tutoring, and support exam preparation.
+- Developed lecture materials, including slides and notes, using LaTeX and Quarto to improve content delivery and student comprehension.
 
-## Health Researcher/Writer, Assistant Show Coordinator
+## 💡 Health Researcher + Writer
 The Epoch Times | 
 *August 2022 – August 2023*  
 
@@ -59,17 +138,39 @@ by conducting interviews and simplifying complex medical studies for a global au
 
 # 🎓 Education
 
-## Fei Tian College - Middletown  
-**BS in Data Science | GPA: 3.75**  
+## 🏛️ Fei Tian College - Middletown  
+**BS in Data Science | GPA: 3.79, Magna Cum Laude**  
 *January 2023 – May 2025*
 
-## University of Zurich  
-**BS in Physics**  
+Relevant Coursework: 
+
+- Statistical Theory and Methods
+- Matrix Analysis
+- Data Mining
+- Data Structures/Algorithms
+- Statistical Computing/Graphics
+- Front-End + Software Development
+- Machine Learning and Artificial Intelligence
+- Database Systems
+- Cloud Computing
+- Big Data Engineering
+
+## 🚠 University of Zurich  
+**BS in Physics | Transferred Out**  
 *October 2022 – December 2022*
 
-## Northern Academy  
+Relevant Coursework: 
+
+- Linear Algebra
+- Real/Complex Analysis
+
+## 🔆 Northern Academy  
 **High School Diploma with Honors | GPA: 3.93**  
 *September 2019 – June 2022*
+
+- National Honor Society
+- Student Council
+- Winter Sports Club
 
 # 🏆 Awards and Certifications
 
@@ -82,24 +183,77 @@ by conducting interviews and simplifying complex medical studies for a global au
 
 # 🚀 Projects
 
-## Neural Networks, Deep Learning, and CNNs
-*Oct-Nov 2024*  
-- Built a DNN from scratch with backpropagation, gradient descent, and advanced optimization techniques.
-- Developed CNNs for image classification, neural style transfer, and autonomous vehicle detection using transfer learning.
+## ⚙️ Machine Learning + Deep Learning
 
-## Sequence Models and NLP
-*Oct 2024*  
-- Created RNN-based models for text generation and neural machine translation.
-- Trained a transformer network for named entity recognition (NER).
+**Chinese Language Website Classification Model (NLP)**  
+*Jan 2025 - Present*  
 
-## Multiple Recommendation Systems
-*Spring 2024*  
-- Implemented recommendation systems with MinHashing and Locality-Sensitive Hashing techniques.
-- Conducted extensive EDA on large datasets.
+- Enhanced accuracy of existing Chinese website classification model by collecting additional training data
+- Developed secondary classification model as additional detection layer to improve content filtering effectiveness
 
-## Additional Projects
-- **GSSR EDA + Data Analysis (R)**: Processed datasets with 5,000+ variables using Tidyverse.
-- **Earthquake Signal Precursors – NASA**: Contributed to sensor system development for seismic event detection.
+**Deep Neural Networks Foundational Projects**  
+*Sep-Nov 2024*  
+
+- Built a DNN from scratch, implementing backpropagation, gradient descent, and optimization techniques (Adam, RMSprop)
+- Developed CNNs for image classification, neural style transfer, and vehicle detection in autonomous driving using transfer learning
+- Created RNN-based models for text generation and neural machine translation with attention mechanisms
+- Trained a transformer network for named entity recognition (NER) using state-of-the-art attention-based models
+
+## ⚖️ Recommendation Systems + Data Mining
+
+**Locality Sensitive Hashing (LSH) Recommendation System**  
+*May 2025 - Present*  
+
+- Implemented Python package for LSH-based recommendations supporting multiple vectorization algorithms (BERT, TF-IDF)
+- Integrated various hashing algorithms (MinHash, LSH) for efficient similarity detection
+
+## ♻️ Statistical Analysis + Predictive Modeling
+
+**Avocado Price Predictions - USPROC Competition**  
+*Sep-Dec 2024*  
+
+- Designed statistical research project for prestigious American Statistical Association competition
+- Analyzed multi-year avocado market data (2015-2018) using advanced statistical methods
+- Implemented and evaluated multiple regression models (Lasso, Elastic-Net, Robust, Regression Tree) in R
+
+**Big Data EDA Projects using R**  
+*Sep-Dec 2023*  
+
+- Analyzed datasets with 5,000+ variables using R and Tidyverse libraries
+- Produced 5+ comprehensive EDA reports including General Social Survey analysis
+- Performed linear modeling and EDA on obesity dataset with 2100+ rows and 17 features
+
+## 🤿 Data Engineering + Web Development
+
+**Data Engineering Capstone Project**  
+*Sep 2024*  
+
+- Designed and implemented data repositories, pipelines, and warehouses
+- Demonstrated proficiency with relational databases, NoSQL stores, and big data engines
+- Applied Linux shell scripting, SQL, and Python to data engineering problems
+
+**Front End Web Development Projects**  
+*Aug 2022-Dec 2023*  
+
+- Deployed multiple static sites using Netlify with React.js, TypeScript, and TailwindCSS
+- Built online library catalog with UAuth and MongoDB integration
+- Developed Apple Studio Display checkout page replica using React hooks
+
+## 🛰️ Research + Specialized Projects
+
+**Statistics Lecture Notes Compilation**  
+*Jan-Dec 2024*  
+
+- Compiled comprehensive lecture notes for Statistical Theory and Methods (STA211)
+- Created documentation for Statistical Matrix Analysis (STA451) and Applied Linear Regression (STA311)
+
+**Earthquake Signal Precursor Detection**  
+*Oct 2019-Jun 2021*  
+
+- Implemented quad-sensor system for seismic event detection in San Francisco Bay Area
+- Identified anomalies linked to electromagnetic discharge events through data analysis
+- Collaborated on electromagnetic sensor code optimization
+
 
 # 📧 Contact
 
