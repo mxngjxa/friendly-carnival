@@ -7,11 +7,11 @@
     "text": "Hi, I’m Jacky. I’m a Machine Learning Engineer at Deledao and recently graduated from Fei Tian College - Middletown with a Bachelor of Science in Data Science, Magna Cum Laude.\nI am passionate about technology, leveraging data-driven approaches to solve real-world problems, and continuously expanding my technical skill set. While I mainly focus on the engineering aspect of Machine Learning, I’m no stranger to DevOps, Full-Stack, and engineering.\nSince I’m still early in my career, there is a lot to learn from the field. I will continue my education by pursuing a MS in Quantum Computing to stay ahead of the curve while striving to be a part in revolutionizing the K-12 Ed-Tech landscape with Machine Learning.\n\n\n\n\n\n\nHowever…\n\n\n\nThis is my website, so I will tell you more about myself. I believe in making the world a better place, something that always starts at the individual level.\n\n\nPracticing Falun Dafa, an ancient spiritual practice rooted in Buddhism, has strengthened my resolve in doing what is right in the current state of affairs.\nOn a social level, I’ve written for the health department @The Epoch Times on topics such as immune exhaustion, soaring egg prices, and everything else in-between.\nAt the academic level, I enjoy helping peers and students with their work as a Teaching Assistent and drafting up lecture notes for the next batch of undergraduates. I was able to put my DevOps experience to good use @Sunregen Healthcare AG, contracting as a system administrator.\n\n\n\nStowe 2025\n\n\nAt the same time, I’ve been skiing since 2008 and run my own little channel where you can check out my videos."
   },
   {
-    "objectID": "index.html#machine-learning-intern",
-    "href": "index.html#machine-learning-intern",
+    "objectID": "index.html#machine-learning-engineer",
+    "href": "index.html#machine-learning-engineer",
     "title": "Mingjia ‘Jacky’ Guan",
-    "section": "3.1 Machine Learning Intern",
-    "text": "3.1 Machine Learning Intern\nDeledao Technologies | Jan 2025 – Today\n\nTraining, fine-tuning, and deploying a web classification model for the Chinese market."
+    "section": "🌄 Machine Learning Engineer",
+    "text": "🌄 Machine Learning Engineer\nDeledao Technologies | Jan 2025 – Today\n\nTraining, fine-tuning, and deploying a web classification model for the Chinese market."
   },
   {
     "objectID": "index.html#crm-data-engineer",
@@ -28,11 +28,11 @@
     "text": "🪂 Teaching Assistant\nFei Tian College - Middletown | January 2024 – May 2025\n\nFacilitated online student discussions and actively responded to inquiries on the discussion board.\nCollaborated with professors and students in both introductory and advanced courses to enhance the learning experience, provide structured feedback on coursework, offer one-on-one tutoring, and support exam preparation.\nDeveloped lecture materials, including slides and notes, using LaTeX and Quarto to improve content delivery and student comprehension."
   },
   {
-    "objectID": "index.html#health-researcherwriter-assistant-show-coordinator",
-    "href": "index.html#health-researcherwriter-assistant-show-coordinator",
+    "objectID": "index.html#health-researcher-writer",
+    "href": "index.html#health-researcher-writer",
     "title": "Mingjia ‘Jacky’ Guan",
-    "section": "Health Researcher/Writer, Assistant Show Coordinator",
-    "text": "Health Researcher/Writer, Assistant Show Coordinator\nThe Epoch Times | August 2022 – August 2023\n\nProduced 30+ articles garnering 34,000+ social media shares, demonstrated expertise in creating engaging health content by conducting interviews and simplifying complex medical studies for a global audience.\nWriter Profile"
+    "section": "💡 Health Researcher + Writer",
+    "text": "💡 Health Researcher + Writer\nThe Epoch Times | August 2022 – August 2023\n\nProduced 30+ articles garnering 34,000+ social media shares, demonstrated expertise in creating engaging health content by conducting interviews and simplifying complex medical studies for a global audience.\nWriter Profile"
   },
   {
     "objectID": "index.html#fei-tian-college---middletown",
@@ -56,32 +56,39 @@
     "text": "🔆 Northern Academy\nHigh School Diploma with Honors | GPA: 3.93\nSeptember 2019 – June 2022\n\nNational Honor Society\nStudent Council\nWinter Sports Club"
   },
   {
-    "objectID": "index.html#neural-networks-deep-learning-and-cnns",
-    "href": "index.html#neural-networks-deep-learning-and-cnns",
+    "objectID": "index.html#machine-learning-deep-learning",
+    "href": "index.html#machine-learning-deep-learning",
     "title": "Mingjia ‘Jacky’ Guan",
-    "section": "6.1 Neural Networks, Deep Learning, and CNNs",
-    "text": "6.1 Neural Networks, Deep Learning, and CNNs\nOct-Nov 2024\n- Built a DNN from scratch with backpropagation, gradient descent, and advanced optimization techniques. - Developed CNNs for image classification, neural style transfer, and autonomous vehicle detection using transfer learning."
+    "section": "⚙️ Machine Learning + Deep Learning",
+    "text": "⚙️ Machine Learning + Deep Learning\nChinese Language Website Classification Model (NLP)\nJan 2025 - Present\n\nEnhanced accuracy of existing Chinese website classification model by collecting additional training data\nDeveloped secondary classification model as additional detection layer to improve content filtering effectiveness\n\nDeep Neural Networks Foundational Projects\nSep-Nov 2024\n\nBuilt a DNN from scratch, implementing backpropagation, gradient descent, and optimization techniques (Adam, RMSprop)\nDeveloped CNNs for image classification, neural style transfer, and vehicle detection in autonomous driving using transfer learning\nCreated RNN-based models for text generation and neural machine translation with attention mechanisms\nTrained a transformer network for named entity recognition (NER) using state-of-the-art attention-based models"
   },
   {
-    "objectID": "index.html#sequence-models-and-nlp",
-    "href": "index.html#sequence-models-and-nlp",
+    "objectID": "index.html#recommendation-systems-data-mining",
+    "href": "index.html#recommendation-systems-data-mining",
     "title": "Mingjia ‘Jacky’ Guan",
-    "section": "6.2 Sequence Models and NLP",
-    "text": "6.2 Sequence Models and NLP\nOct 2024\n- Created RNN-based models for text generation and neural machine translation. - Trained a transformer network for named entity recognition (NER)."
+    "section": "⚖️ Recommendation Systems + Data Mining",
+    "text": "⚖️ Recommendation Systems + Data Mining\nLocality Sensitive Hashing (LSH) Recommendation System\nMay 2025 - Present\n\nImplemented Python package for LSH-based recommendations supporting multiple vectorization algorithms (BERT, TF-IDF)\nIntegrated various hashing algorithms (MinHash, LSH) for efficient similarity detection"
   },
   {
-    "objectID": "index.html#multiple-recommendation-systems",
-    "href": "index.html#multiple-recommendation-systems",
+    "objectID": "index.html#statistical-analysis-predictive-modeling",
+    "href": "index.html#statistical-analysis-predictive-modeling",
     "title": "Mingjia ‘Jacky’ Guan",
-    "section": "6.3 Multiple Recommendation Systems",
-    "text": "6.3 Multiple Recommendation Systems\nSpring 2024\n- Implemented recommendation systems with MinHashing and Locality-Sensitive Hashing techniques. - Conducted extensive EDA on large datasets."
+    "section": "♻️ Statistical Analysis + Predictive Modeling",
+    "text": "♻️ Statistical Analysis + Predictive Modeling\nAvocado Price Predictions - USPROC Competition\nSep-Dec 2024\n\nDesigned statistical research project for prestigious American Statistical Association competition\nAnalyzed multi-year avocado market data (2015-2018) using advanced statistical methods\nImplemented and evaluated multiple regression models (Lasso, Elastic-Net, Robust, Regression Tree) in R\n\nBig Data EDA Projects using R\nSep-Dec 2023\n\nAnalyzed datasets with 5,000+ variables using R and Tidyverse libraries\nProduced 5+ comprehensive EDA reports including General Social Survey analysis\nPerformed linear modeling and EDA on obesity dataset with 2100+ rows and 17 features"
   },
   {
-    "objectID": "index.html#additional-projects",
-    "href": "index.html#additional-projects",
+    "objectID": "index.html#data-engineering-web-development",
+    "href": "index.html#data-engineering-web-development",
     "title": "Mingjia ‘Jacky’ Guan",
-    "section": "6.4 Additional Projects",
-    "text": "6.4 Additional Projects\n\nGSSR EDA + Data Analysis (R): Processed datasets with 5,000+ variables using Tidyverse.\nEarthquake Signal Precursors – NASA: Contributed to sensor system development for seismic event detection."
+    "section": "🤿 Data Engineering + Web Development",
+    "text": "🤿 Data Engineering + Web Development\nData Engineering Capstone Project\nSep 2024\n\nDesigned and implemented data repositories, pipelines, and warehouses\nDemonstrated proficiency with relational databases, NoSQL stores, and big data engines\nApplied Linux shell scripting, SQL, and Python to data engineering problems\n\nFront End Web Development Projects\nAug 2022-Dec 2023\n\nDeployed multiple static sites using Netlify with React.js, TypeScript, and TailwindCSS\nBuilt online library catalog with UAuth and MongoDB integration\nDeveloped Apple Studio Display checkout page replica using React hooks"
+  },
+  {
+    "objectID": "index.html#research-specialized-projects",
+    "href": "index.html#research-specialized-projects",
+    "title": "Mingjia ‘Jacky’ Guan",
+    "section": "🛰️ Research + Specialized Projects",
+    "text": "🛰️ Research + Specialized Projects\nStatistics Lecture Notes Compilation\nJan-Dec 2024\n\nCompiled comprehensive lecture notes for Statistical Theory and Methods (STA211)\nCreated documentation for Statistical Matrix Analysis (STA451) and Applied Linear Regression (STA311)\n\nEarthquake Signal Precursor Detection\nOct 2019-Jun 2021\n\nImplemented quad-sensor system for seismic event detection in San Francisco Bay Area\nIdentified anomalies linked to electromagnetic discharge events through data analysis\nCollaborated on electromagnetic sensor code optimization"
   },
   {
     "objectID": "qmd/publications.html",
@@ -96,6 +103,48 @@
     "title": "Contact",
     "section": "",
     "text": "I’m always interested in connecting with fellow data scientists, researchers, and tech enthusiasts. Whether you have questions about my projects, want to collaborate, or just want to chat about machine learning and data science, I’d love to hear from you!"
+  },
+  {
+    "objectID": "qmd/contact.html#get-in-touch",
+    "href": "qmd/contact.html#get-in-touch",
+    "title": "Contact",
+    "section": "",
+    "text": "I’m always interested in connecting with fellow data scientists, researchers, and tech enthusiasts. Whether you have questions about my projects, want to collaborate, or just want to chat about machine learning and data science, I’d love to hear from you!"
+  },
+  {
+    "objectID": "qmd/contact.html#contact-information",
+    "href": "qmd/contact.html#contact-information",
+    "title": "Contact",
+    "section": "Contact Information",
+    "text": "Contact Information\nEmail: mingjia.guan@outlook.com\nLocation: New York Metropolitan Area, United States"
+  },
+  {
+    "objectID": "qmd/contact.html#connect-with-me",
+    "href": "qmd/contact.html#connect-with-me",
+    "title": "Contact",
+    "section": "Connect With Me",
+    "text": "Connect With Me\n\nLinkedIn: Mingjia “Jacky” Guan\nGitHub: mxngjxa\nX: @mxngjxa9"
+  },
+  {
+    "objectID": "qmd/contact.html#what-im-looking-for",
+    "href": "qmd/contact.html#what-im-looking-for",
+    "title": "Contact",
+    "section": "What I’m Looking For",
+    "text": "What I’m Looking For\n\n\n\n\n\n\nCollaboration Opportunities\n\n\n\nI’m particularly interested in:\n\nMachine learning and deep learning projects\nNatural language processing applications\nData engineering challenges\nOpen source contributions\nResearch collaborations"
+  },
+  {
+    "objectID": "qmd/contact.html#response-time",
+    "href": "qmd/contact.html#response-time",
+    "title": "Contact",
+    "section": "Response Time",
+    "text": "Response Time\nI typically respond to emails within 24-48 hours. For urgent matters, please indicate so in your subject line."
+  },
+  {
+    "objectID": "qmd/contact.html#lets-build-something-amazing-together",
+    "href": "qmd/contact.html#lets-build-something-amazing-together",
+    "title": "Contact",
+    "section": "Let’s Build Something Amazing Together",
+    "text": "Let’s Build Something Amazing Together\nWhether you’re working on an exciting project, have a research question, or want to discuss the latest developments in AI and machine learning, I’m here to connect. Drop me a line and let’s start a conversation!\n\nFeel free to reach out in English, German, or Chinese - I’m comfortable communicating in all three languages."
   },
   {
     "objectID": "qmd/projects.html",
@@ -152,103 +201,5 @@
     "title": "About",
     "section": "Academic Tools",
     "text": "Academic Tools"
-  },
-  {
-    "objectID": "index.html#machine-learning-engineer",
-    "href": "index.html#machine-learning-engineer",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "🌄 Machine Learning Engineer",
-    "text": "🌄 Machine Learning Engineer\nDeledao Technologies | Jan 2025 – Today\n\nTraining, fine-tuning, and deploying a web classification model for the Chinese market."
-  },
-  {
-    "objectID": "index.html#machine-learning-deep-learning",
-    "href": "index.html#machine-learning-deep-learning",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "⚙️ Machine Learning + Deep Learning",
-    "text": "⚙️ Machine Learning + Deep Learning\nChinese Language Website Classification Model (NLP)\nJan 2025 - Present\n\nEnhanced accuracy of existing Chinese website classification model by collecting additional training data\nDeveloped secondary classification model as additional detection layer to improve content filtering effectiveness\n\nDeep Neural Networks Foundational Projects\nSep-Nov 2024\n\nBuilt a DNN from scratch, implementing backpropagation, gradient descent, and optimization techniques (Adam, RMSprop)\nDeveloped CNNs for image classification, neural style transfer, and vehicle detection in autonomous driving using transfer learning\nCreated RNN-based models for text generation and neural machine translation with attention mechanisms\nTrained a transformer network for named entity recognition (NER) using state-of-the-art attention-based models"
-  },
-  {
-    "objectID": "index.html#recommendation-systems-data-mining",
-    "href": "index.html#recommendation-systems-data-mining",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "⚖️ Recommendation Systems + Data Mining",
-    "text": "⚖️ Recommendation Systems + Data Mining\nLocality Sensitive Hashing (LSH) Recommendation System\nMay 2025 - Present\n\nImplemented Python package for LSH-based recommendations supporting multiple vectorization algorithms (BERT, TF-IDF)\nIntegrated various hashing algorithms (MinHash, LSH) for efficient similarity detection"
-  },
-  {
-    "objectID": "index.html#statistical-analysis-predictive-modeling",
-    "href": "index.html#statistical-analysis-predictive-modeling",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "♻️ Statistical Analysis + Predictive Modeling",
-    "text": "♻️ Statistical Analysis + Predictive Modeling\nAvocado Price Predictions - USPROC Competition\nSep-Dec 2024\n\nDesigned statistical research project for prestigious American Statistical Association competition\nAnalyzed multi-year avocado market data (2015-2018) using advanced statistical methods\nImplemented and evaluated multiple regression models (Lasso, Elastic-Net, Robust, Regression Tree) in R\n\nBig Data EDA Projects using R\nSep-Dec 2023\n\nAnalyzed datasets with 5,000+ variables using R and Tidyverse libraries\nProduced 5+ comprehensive EDA reports including General Social Survey analysis\nPerformed linear modeling and EDA on obesity dataset with 2100+ rows and 17 features"
-  },
-  {
-    "objectID": "index.html#data-engineering-web-development",
-    "href": "index.html#data-engineering-web-development",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "🤿 Data Engineering + Web Development",
-    "text": "🤿 Data Engineering + Web Development\nData Engineering Capstone Project\nSep 2024\n\nDesigned and implemented data repositories, pipelines, and warehouses\nDemonstrated proficiency with relational databases, NoSQL stores, and big data engines\nApplied Linux shell scripting, SQL, and Python to data engineering problems\n\nFront End Web Development Projects\nAug 2022-Dec 2023\n\nDeployed multiple static sites using Netlify with React.js, TypeScript, and TailwindCSS\nBuilt online library catalog with UAuth and MongoDB integration\nDeveloped Apple Studio Display checkout page replica using React hooks"
-  },
-  {
-    "objectID": "index.html#research-specialized-projects",
-    "href": "index.html#research-specialized-projects",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "🛰️ Research + Specialized Projects",
-    "text": "🛰️ Research + Specialized Projects\nStatistics Lecture Notes Compilation\nJan-Dec 2024\n\nCompiled comprehensive lecture notes for Statistical Theory and Methods (STA211)\nCreated documentation for Statistical Matrix Analysis (STA451) and Applied Linear Regression (STA311)\n\nEarthquake Signal Precursor Detection\nOct 2019-Jun 2021\n\nImplemented quad-sensor system for seismic event detection in San Francisco Bay Area\nIdentified anomalies linked to electromagnetic discharge events through data analysis\nCollaborated on electromagnetic sensor code optimization"
-  },
-  {
-    "objectID": "qmd/contact.html#get-in-touch",
-    "href": "qmd/contact.html#get-in-touch",
-    "title": "Contact",
-    "section": "",
-    "text": "I’m always interested in connecting with fellow data scientists, researchers, and tech enthusiasts. Whether you have questions about my projects, want to collaborate, or just want to chat about machine learning and data science, I’d love to hear from you!"
-  },
-  {
-    "objectID": "qmd/contact.html#contact-information",
-    "href": "qmd/contact.html#contact-information",
-    "title": "Contact",
-    "section": "Contact Information",
-    "text": "Contact Information\nEmail: mingjia.guan@outlook.com\nLocation: New York Metropolitan Area, United States"
-  },
-  {
-    "objectID": "qmd/contact.html#connect-with-me",
-    "href": "qmd/contact.html#connect-with-me",
-    "title": "Contact",
-    "section": "Connect With Me",
-    "text": "Connect With Me\n\nLinkedIn: Mingjia “Jacky” Guan\nGitHub: mxngjxa\nX: @mxngjxa9"
-  },
-  {
-    "objectID": "qmd/contact.html#what-im-looking-for",
-    "href": "qmd/contact.html#what-im-looking-for",
-    "title": "Contact",
-    "section": "What I’m Looking For",
-    "text": "What I’m Looking For\n\n\n\n\n\n\nCollaboration Opportunities\n\n\n\nI’m particularly interested in:\n\nMachine learning and deep learning projects\nNatural language processing applications\nData engineering challenges\nOpen source contributions\nResearch collaborations"
-  },
-  {
-    "objectID": "qmd/contact.html#response-time",
-    "href": "qmd/contact.html#response-time",
-    "title": "Contact",
-    "section": "Response Time",
-    "text": "Response Time\nI typically respond to emails within 24-48 hours. For urgent matters, please indicate so in your subject line."
-  },
-  {
-    "objectID": "qmd/contact.html#lets-build-something-amazing-together",
-    "href": "qmd/contact.html#lets-build-something-amazing-together",
-    "title": "Contact",
-    "section": "Let’s Build Something Amazing Together",
-    "text": "Let’s Build Something Amazing Together\nWhether you’re working on an exciting project, have a research question, or want to discuss the latest developments in AI and machine learning, I’m here to connect. Drop me a line and let’s start a conversation!\n\nFeel free to reach out in English, German, or Chinese - I’m comfortable communicating in all three languages."
-  },
-  {
-    "objectID": "index.html#health-writer",
-    "href": "index.html#health-writer",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "Health Writer",
-    "text": "Health Writer\nThe Epoch Times | August 2022 – August 2023\n\nProduced 30+ articles garnering 34,000+ social media shares, demonstrated expertise in creating engaging health content by conducting interviews and simplifying complex medical studies for a global audience.\nWriter Profile"
-  },
-  {
-    "objectID": "index.html#health-researcher-writer",
-    "href": "index.html#health-researcher-writer",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "💡 Health Researcher + Writer",
-    "text": "💡 Health Researcher + Writer\nThe Epoch Times | August 2022 – August 2023\n\nProduced 30+ articles garnering 34,000+ social media shares, demonstrated expertise in creating engaging health content by conducting interviews and simplifying complex medical studies for a global audience.\nWriter Profile"
   }
 ]
