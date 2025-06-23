@@ -1,12 +1,10 @@
 ---
-title: "About"
+title: "Technical Skills"
 ---
 
 ::: {.callout-note}
-This part of the website is currently under construction.
+This part of the website is currently under construction. I am constantly expanding my skill set, so you can come back to see the new badges I collected. 
 :::
-
-# Technical Skills
 
 ## Programming Languages
 
