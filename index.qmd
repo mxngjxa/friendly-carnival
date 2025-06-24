@@ -22,9 +22,9 @@ This is my website, so I will tell you more about myself. I believe in making th
 
 Practicing [Falun Dafa](https://faluninfo.net/what-is-falun-gong-falun-dafa/), an ancient spiritual practice rooted in Buddhism, has strengthened my resolve in doing what is right in the current state of affairs. 
 
-On a social level, I've written for the health department @[The Epoch Times](https://www.theepochtimes.com/author/mingjia-jacky-guan) on topics such as immune exhaustion, soaring egg prices, and everything else in-between. 
+On a social level, I've written for the health department at [The Epoch Times](https://www.theepochtimes.com/author/mingjia-jacky-guan) on topics such as immune exhaustion, soaring egg prices, and everything else in-between. 
 
-At the academic level, I enjoy helping peers and students with their work as a Teaching Assistent and drafting up lecture notes for the next batch of undergraduates. I was able to put my DevOps experience to good use @[Sunregen Healthcare AG](sunregen.com), contracting as a system administrator. 
+At the academic level, I enjoy helping peers and students with their work as a Teaching Assistent and drafting up lecture notes for the next batch of undergraduates. I was able to put my DevOps experience to good use at [Sunregen Healthcare AG](sunregen.com), contracting as a system administrator. 
 
 ![Stowe 2025](figures/stowe.jpeg){fig-align="center"}
 
