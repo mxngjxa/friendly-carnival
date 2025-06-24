@@ -4,13 +4,13 @@ format: html
 ---
 
 
-# 🌟 Professional Summary
+# 🌟 About Me
 
 Hi, I'm Jacky. I'm a Machine Learning Engineer at [Deledao](https://www.deledao.com) and recently graduated from [Fei Tian College - Middletown](https://feitian.edu/) with a Bachelor of Science in Data Science, *Magna Cum Laude*. 
 
 I am passionate about technology, leveraging data-driven approaches to solve real-world problems, and continuously expanding my technical skill set. While I mainly focus on the engineering aspect of Machine Learning, I'm no stranger to DevOps, Full-Stack, and engineering. 
 
-Since I'm still early in my career, there is a lot to learn from the field. I will continue my education by pursuing a MS in Quantum Computing to stay ahead of the curve while striving to be a part in revolutionizing the K-12 Ed-Tech landscape with Machine Learning. 
+Since I'm still early in my career, there is a lot to learn from the field. I will continue my education by pursuing a [MS in Quantum Computing](https://qc.northernonline.org/) to stay ahead of the curve while striving to be a part in revolutionizing the K-12 Ed-Tech landscape with Machine Learning. 
 
 ::: {.callout-tip appearance="simple"}
 ## However...
@@ -31,7 +31,7 @@ At the academic level, I enjoy helping peers and students with their work as a T
 At the same time, I've been skiing since 2008 and run my own little [channel](https://www.ganjingworld.com/s/Dvjmz0zQy3) where you can check out my videos. 
 
 
-# 🛠️ Technical Skills
+# 🛠️ Technical Aspects
 
 Work nowadays is supercharged by AI. I use [![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](#) to accelerate my workflow as it includes the latest models from 
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#), 
@@ -88,15 +88,14 @@ and [![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff
 to write those docs, but my goal is to learn [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 to be much faster. 
 
-Of course, I use [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) and [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#), but not any of those common social media platforms like 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#),  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](#), or [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#). While I have accounts there, you will barely see me posting anything 
+Of course, I use [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) and [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#), but not any of those common social media platforms like [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#), 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](#), 
+or [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#). While I have accounts there, you will barely see me posting anything 
 in any case. 
 
 
 
-Please follow me on [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/mingjia-jacky-guan). It's always intersting that even payment methods like [![Apple Pay](https://img.shields.io/badge/Apple%20Pay-000?logo=applepay&logoColor=fff)](#), 
-[![MasterCard](https://img.shields.io/badge/MasterCard-EB001B?logo=mastercard&logoColor=fff)](#), 
+Please follow me on [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/mingjia-jacky-guan). It's always intersting that even payment methods like [![Apple Pay](https://img.shields.io/badge/Apple%20Pay-000?logo=applepay&logoColor=fff)](#), [![MasterCard](https://img.shields.io/badge/MasterCard-EB001B?logo=mastercard&logoColor=fff)](#), 
 [![Visa](https://img.shields.io/badge/Visa-1A1F71?logo=visa&logoColor=fff)](#), 
 [![American Express](https://img.shields.io/badge/American%20Express-2E77BC?logo=americanexpress&logoColor=fff)](#), 
 and [![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)
@@ -174,10 +173,10 @@ Relevant Coursework:
 
 # 🏆 Awards and Certifications
 
-- **Advanced Machine Learning on Google Cloud** | Google Cloud – *November 2024*
-- **Natural Language Processing Specialization** | Deeplearning.AI – *November 2024*
-- **Machine Learning Specialization** | DeepLearning.AI – *October 2024*
-- **IBM Data Engineering Professional Certificate** | IBM – *September 2024*
+- [**Advanced Machine Learning on Google Cloud**](https://coursera.org/verify/specialization/2OREOAYYR0XL) | Google Cloud – *November 2024*
+- [**Natural Language Processing Specialization**](https://coursera.org/verify/specialization/0Q0GS5AA61BT) | Deeplearning.AI – *November 2024*
+- [**Deep Learning Specialization**](https://coursera.org/verify/specialization/ZYDLK0MFAPPZ) | DeepLearning.AI – *October 2024*
+- [**IBM Data Engineering Professional Certificate**](https://coursera.org/verify/professional-cert/E2S2YHWUTT7M) | IBM – *September 2024*
 - **NYS Comptroller Achievement Award** – *July 2022*
 - 5x Dean’s List, 2x Department Academic Excellence Award – *As of December 2024*
 
