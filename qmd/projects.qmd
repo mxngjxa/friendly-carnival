@@ -11,4 +11,5 @@ This part of the website is currently under construction.
 ```python
 print("Hello World!")
 print("Project hosted with Firebase Spark!")
+print("Network Certificate Pending...")
 ```
