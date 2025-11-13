@@ -4,91 +4,7 @@
     "href": "index.html",
     "title": "Mingjia ‘Jacky’ Guan",
     "section": "",
-    "text": "Hi, I’m Jacky. I’m a Machine Learning Engineer at Deledao and recently graduated from Fei Tian College - Middletown with a Bachelor of Science in Data Science, Magna Cum Laude.\nI am passionate about technology, leveraging data-driven approaches to solve real-world problems, and continuously expanding my technical skill set. While I mainly focus on the engineering aspect of Machine Learning, I’m no stranger to DevOps, Full-Stack, and engineering.\nSince I’m still early in my career, there is a lot to learn from the field. I will continue my education by pursuing a MS in Quantum Computing to stay ahead of the curve while striving to be a part in revolutionizing the K-12 Ed-Tech landscape with Machine Learning.\n\n\n\n\n\n\nHowever…\n\n\n\nThis is my website, so I will tell you more about myself. I believe in making the world a better place, something that always starts at the individual level.\n\n\nPracticing Falun Dafa, an ancient spiritual practice rooted in Buddhism, has strengthened my resolve in doing what is right in the current state of affairs.\nOn a social level, I’ve written for the health department at The Epoch Times on topics such as immune exhaustion, soaring egg prices, and everything else in-between.\nAt the academic level, I enjoy helping peers and students with their work as a Teaching Assistent and drafting up lecture notes for the next batch of undergraduates. I was able to put my DevOps experience to good use at Sunregen Healthcare AG, contracting as a system administrator.\n\n\n\nStowe 2025\n\n\nAt the same time, I’ve been skiing since 2008 and run my own little channel where you can check out my videos."
-  },
-  {
-    "objectID": "index.html#machine-learning-engineer",
-    "href": "index.html#machine-learning-engineer",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "🌄 Machine Learning Engineer",
-    "text": "🌄 Machine Learning Engineer\nDeledao Technologies | Jan 2025 – Today\n\nTraining, fine-tuning, and deploying a web classification model for the Chinese market."
-  },
-  {
-    "objectID": "index.html#crm-data-engineer",
-    "href": "index.html#crm-data-engineer",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "🚃 CRM Data Engineer",
-    "text": "🚃 CRM Data Engineer\nDeledao Technologies | October 2024 – July 2025\n\nServed as the CRM (HubSpot) admin, ensuring the system runs smoothly and meets the needs of the management and team members.\nAutomated data pipelines to streamline data engineering tasks and improve overall efficiency."
-  },
-  {
-    "objectID": "index.html#teaching-assistant",
-    "href": "index.html#teaching-assistant",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "🪂 Teaching Assistant",
-    "text": "🪂 Teaching Assistant\nFei Tian College - Middletown | January 2024 – May 2025\n\nFacilitated online student discussions and actively responded to inquiries on the discussion board.\nCollaborated with professors and students in both introductory and advanced courses to enhance the learning experience, provide structured feedback on coursework, offer one-on-one tutoring, and support exam preparation.\nDeveloped lecture materials, including slides and notes, using LaTeX and Quarto to improve content delivery and student comprehension."
-  },
-  {
-    "objectID": "index.html#health-researcher-writer",
-    "href": "index.html#health-researcher-writer",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "💡 Health Researcher + Writer",
-    "text": "💡 Health Researcher + Writer\nThe Epoch Times | August 2022 – August 2023\n\nProduced 30+ articles garnering 34,000+ social media shares, demonstrated expertise in creating engaging health content by conducting interviews and simplifying complex medical studies for a global audience.\nWriter Profile"
-  },
-  {
-    "objectID": "index.html#fei-tian-college---middletown",
-    "href": "index.html#fei-tian-college---middletown",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "🏛️ Fei Tian College - Middletown",
-    "text": "🏛️ Fei Tian College - Middletown\nBS in Data Science | GPA: 3.79, Magna Cum Laude\nJanuary 2023 – May 2025\nRelevant Coursework:\n\nStatistical Theory and Methods\nMatrix Analysis\nData Mining\nData Structures/Algorithms\nStatistical Computing/Graphics\nFront-End + Software Development\nMachine Learning and Artificial Intelligence\nDatabase Systems\nCloud Computing\nBig Data Engineering"
-  },
-  {
-    "objectID": "index.html#university-of-zurich",
-    "href": "index.html#university-of-zurich",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "🚠 University of Zurich",
-    "text": "🚠 University of Zurich\nBS in Physics | Transferred Out\nOctober 2022 – December 2022\nRelevant Coursework:\n\nLinear Algebra\nReal/Complex Analysis"
-  },
-  {
-    "objectID": "index.html#northern-academy",
-    "href": "index.html#northern-academy",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "🔆 Northern Academy",
-    "text": "🔆 Northern Academy\nHigh School Diploma with Honors | GPA: 3.93\nSeptember 2019 – June 2022\n\nNational Honor Society\nStudent Council\nWinter Sports Club"
-  },
-  {
-    "objectID": "index.html#machine-learning-deep-learning",
-    "href": "index.html#machine-learning-deep-learning",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "⚙️ Machine Learning + Deep Learning",
-    "text": "⚙️ Machine Learning + Deep Learning\nChinese Language Website Classification Model (NLP)\nJan 2025 - Present\n\nEnhanced accuracy of existing Chinese website classification model by collecting additional training data\nDeveloped secondary classification model as additional detection layer to improve content filtering effectiveness\n\nDeep Neural Networks Foundational Projects\nSep-Nov 2024\n\nBuilt a DNN from scratch, implementing backpropagation, gradient descent, and optimization techniques (Adam, RMSprop)\nDeveloped CNNs for image classification, neural style transfer, and vehicle detection in autonomous driving using transfer learning\nCreated RNN-based models for text generation and neural machine translation with attention mechanisms\nTrained a transformer network for named entity recognition (NER) using state-of-the-art attention-based models"
-  },
-  {
-    "objectID": "index.html#recommendation-systems-data-mining",
-    "href": "index.html#recommendation-systems-data-mining",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "⚖️ Recommendation Systems + Data Mining",
-    "text": "⚖️ Recommendation Systems + Data Mining\nLocality Sensitive Hashing (LSH) Recommendation System\nMay 2025 - Present\n\nImplemented Python package for LSH-based recommendations supporting multiple vectorization algorithms (BERT, TF-IDF)\nIntegrated various hashing algorithms (MinHash, LSH) for efficient similarity detection"
-  },
-  {
-    "objectID": "index.html#statistical-analysis-predictive-modeling",
-    "href": "index.html#statistical-analysis-predictive-modeling",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "♻️ Statistical Analysis + Predictive Modeling",
-    "text": "♻️ Statistical Analysis + Predictive Modeling\nAvocado Price Predictions - USPROC Competition\nSep-Dec 2024\n\nDesigned statistical research project for prestigious American Statistical Association competition\nAnalyzed multi-year avocado market data (2015-2018) using advanced statistical methods\nImplemented and evaluated multiple regression models (Lasso, Elastic-Net, Robust, Regression Tree) in R\n\nBig Data EDA Projects using R\nSep-Dec 2023\n\nAnalyzed datasets with 5,000+ variables using R and Tidyverse libraries\nProduced 5+ comprehensive EDA reports including General Social Survey analysis\nPerformed linear modeling and EDA on obesity dataset with 2100+ rows and 17 features"
-  },
-  {
-    "objectID": "index.html#data-engineering-web-development",
-    "href": "index.html#data-engineering-web-development",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "🤿 Data Engineering + Web Development",
-    "text": "🤿 Data Engineering + Web Development\nData Engineering Capstone Project\nSep 2024\n\nDesigned and implemented data repositories, pipelines, and warehouses\nDemonstrated proficiency with relational databases, NoSQL stores, and big data engines\nApplied Linux shell scripting, SQL, and Python to data engineering problems\n\nFront End Web Development Projects\nAug 2022-Dec 2023\n\nDeployed multiple static sites using Netlify with React.js, TypeScript, and TailwindCSS\nBuilt online library catalog with UAuth and MongoDB integration\nDeveloped Apple Studio Display checkout page replica using React hooks"
-  },
-  {
-    "objectID": "index.html#research-specialized-projects",
-    "href": "index.html#research-specialized-projects",
-    "title": "Mingjia ‘Jacky’ Guan",
-    "section": "🛰️ Research + Specialized Projects",
-    "text": "🛰️ Research + Specialized Projects\nStatistics Lecture Notes Compilation\nJan-Dec 2024\n\nCompiled comprehensive lecture notes for Statistical Theory and Methods (STA211)\nCreated documentation for Statistical Matrix Analysis (STA451) and Applied Linear Regression (STA311)\n\nEarthquake Signal Precursor Detection\nOct 2019-Jun 2021\n\nImplemented quad-sensor system for seismic event detection in San Francisco Bay Area\nIdentified anomalies linked to electromagnetic discharge events through data analysis\nCollaborated on electromagnetic sensor code optimization"
+    "text": "🌟 About Me\nHi, I’m Jacky. I’m a Machine Learning Engineer at Deledao and recently graduated from Fei Tian College - Northern Campus with a Bachelor of Science in Data Science, Magna Cum Laude.\nI am passionate about technology, leveraging data-driven approaches to solve real-world problems, and continuously expanding my technical skill set. While I mainly focus on the engineering aspect of Machine Learning, I’m no stranger to DevOps, Full-Stack, the list goes on.\nSince I’m still early in my career, there is a lot to learn from the field. I will continue my education by pursuing a MS in Quantum Computing to stay ahead of the curve while striving to be a part in revolutionizing the K-12 Ed-Tech landscape with Machine Learning.\n\n\n\n\n\n\nTipHowever…\n\n\n\nThis is my website, so I will tell you more about myself. I believe in making the world a better place, something that always starts at the individual level.\n\n\nPracticing Falun Dafa, an ancient spiritual practice rooted in Buddhism, has strengthened my resolve in doing what is right in the current state of affairs.\nOn a social level, I’ve written for the health department at The Epoch Times on topics such as immune exhaustion, soaring egg prices, and everything else in-between.\nAt the academic level, I enjoy helping peers and students with their work as an instructor and drafting up lecture notes for the next batch of undergraduates. After putting my DevOps experience to good use at Sunregen Healthcare AG, contracting as a system administrator, I am now serving as a Technical Solutions Architect at my own company, MG Solutions. Reach out to me and let’s grab a (virtual) coffee to see how I can help you automate and scale your business.\n\n\n\nStowe 2025\n\n\nAt the same time, I’ve been skiing since 2008 and run my own little channel where you can check out my videos.\n\n\n🛠️ Technical Aspects\nWork nowadays is supercharged by AI. I use  to accelerate my workflow as it includes the latest models from , , , and  I frequently browse  for other models to tune and deploy. Using  has made tab management a breeze. I primarily work on  but have my fair share of experience on  and am currently deploying this website using . While it is tempting to switch over to  or become a hardcore and use , I’m still more than happy with  and the incredible compatibility it offers. Maybe I can try out  or  to catch up to the hype train, but for now I will still try to be a traditional coder.\nTechnically speaking, I’m not experienced with anything special. You can see , , and , along with a bunch of methods and frameworks on there like , , , , , using tools like , workflows like , and more. While I manage my tasks using  and making things on the side using  I’ve learned a lot using , , , , and have tried out the occasional competition on .\nIf we’re going back to the technical side of things, of course I use  and am intimidated by , but that is just the beginning of it. While I was never a huge fan of deploying websites with , , , , , and , frameworks like  and , or scraping the web with . I’m even thinking of writing a package and publishing it to . Of course, while  offers the best UI experience with good old , I work mostly in , staying close to traditional flavors like . In any case, something about  creeps me out.\nAt the core, I code mostly with . It is a good language, unlike , and much preferred over,  (or , since it is the way to go). I’m familiar with , , and of couse a fair bit of  and  to write those docs, but my goal is to learn  to be much faster.\nOf course, I use  and , but not any of those common social media platforms like , , or . While I have accounts there, you will barely see me posting anything in any case.\nPlease follow me on . It’s always intersting that even payment methods like , , , , and  all get their own badges. I’m a fan of , preferring it over  and , but that’s just my preference. These badges are fun to play around with…\n\n\n📧 Contact\n\nEmail: mingjia.guan@outlook.com\nLinkedIn: Mingjia “Jacky” Guan"
   },
   {
     "objectID": "qmd/publications.html",
@@ -102,14 +18,14 @@
     "href": "qmd/contact.html",
     "title": "Contact",
     "section": "",
-    "text": "I’m always interested in connecting with fellow data scientists, researchers, and tech enthusiasts. Whether you have questions about my projects, want to collaborate, or just want to chat about machine learning and data science, I’d love to hear from you!"
+    "text": "I’m always interested in connecting with fellow data scientists, researchers, and tech enthusiasts. Whether you have questions about my projects, want to collaborate, or just want to chat about nerdy stuff, I’d love to hear from you! I typically respond to emails within 24-48 hours."
   },
   {
     "objectID": "qmd/contact.html#get-in-touch",
     "href": "qmd/contact.html#get-in-touch",
     "title": "Contact",
     "section": "",
-    "text": "I’m always interested in connecting with fellow data scientists, researchers, and tech enthusiasts. Whether you have questions about my projects, want to collaborate, or just want to chat about machine learning and data science, I’d love to hear from you!"
+    "text": "I’m always interested in connecting with fellow data scientists, researchers, and tech enthusiasts. Whether you have questions about my projects, want to collaborate, or just want to chat about nerdy stuff, I’d love to hear from you! I typically respond to emails within 24-48 hours."
   },
   {
     "objectID": "qmd/contact.html#contact-information",
@@ -130,14 +46,7 @@
     "href": "qmd/contact.html#what-im-looking-for",
     "title": "Contact",
     "section": "What I’m Looking For",
-    "text": "What I’m Looking For\n\n\n\n\n\n\nCollaboration Opportunities\n\n\n\nI’m particularly interested in:\n\nMachine learning and deep learning projects\nNatural language processing applications\nData engineering challenges\nOpen source contributions\nResearch collaborations"
-  },
-  {
-    "objectID": "qmd/contact.html#response-time",
-    "href": "qmd/contact.html#response-time",
-    "title": "Contact",
-    "section": "Response Time",
-    "text": "Response Time\nI typically respond to emails within 24-48 hours. For urgent matters, please indicate so in your subject line."
+    "text": "What I’m Looking For\n\n\n\n\n\n\nTipCollaboration Opportunities\n\n\n\nI’m particularly interested in:\n\nMachine learning and deep learning projects\nNatural language processing applications\nData engineering challenges\nOpen source contributions\nResearch collaborations"
   },
   {
     "objectID": "qmd/contact.html#lets-build-something-amazing-together",
@@ -158,14 +67,70 @@
     "href": "qmd/about.html",
     "title": "Technical Skills",
     "section": "",
-    "text": "Note\n\n\n\nI am constantly expanding my skill set, so you can come back to see the new badges I collected."
+    "text": "Deledao Technologies | Jun 2025 – Present\nHybrid\n\nSpearheaded R&D initiatives for multilingual ML product suite including website classification and student wellness monitoring, optimizing model deployment workflows to achieve 98%+ accuracy on Chinese language classification for Taiwanese market despite resource constraints\nEvaluated 30+ baseline classification models for drug, tobacco, and weapons detection, implementing transformer-based architecture that achieved 91.95% Macro-F1 score on holdout validation set\nAccelerated production-grade deployment timelines through automated preprocessing pipelines and AWS infrastructure optimization, supporting 3x sales volume growth capacity\n\n\n\n\nMG SOLUTIONS | Mar 2025 – Present\nRemote\n\nArchitected and executed complete infrastructure migrations for 3+ SMB clients over 1-3 month engagement cycles, transitioning from vendor-locked platforms (GoDaddy, Microsoft 365) to self-hosted VPS environments\nDeployed Docker-based containerized environments on Ubuntu VPS with Nginx Proxy Manager, Cloudflare DNS/DDoS protection, and Prometheus monitoring stacks, achieving 99.5% uptime\nImplemented cost-effective self-hosted solutions including Mailcow email servers and Nextcloud storage platforms, eliminating recurring SaaS subscriptions while maintaining enterprise-grade reliability\nDelivered hands-on technical training to non-technical business owners, enabling autonomous infrastructure management without requiring in-house IT expertise\n\n\n\n\nDeledao Technologies | Aug 2024 – May 2025\nPart-time, Remote\n\nEngineered 7+ post-deal automations for invoicing, provisioning, and data cleanup processes, transitioning company from manual Excel/Google Sheets workflows to integrated HubSpot system\nEliminated 15% redundant company data through systematic CRM cleanup while establishing 5+ cross-department communication channels for improved operational efficiency\nImplemented scalable infrastructure with automated guardrails and business intelligence reporting, enabling 3x sales volume growth without additional manual overhead\n\n\n\n\nFei Tian College - Middletown | Jan 2024 – Present\nOn-site\nAdjunct Instructor (Oct 2025 – Present)\n\nCourse Instructor for Linear Algebra (MAT 201), delivering comprehensive instruction to cohort of ~20 undergraduate students\n\nUndergraduate Teaching Assistant (Jan 2024 – Oct 2025)\n\nSupported instruction across 4 courses: Statistics (STA101), Data Mining (DAS331), Data Structures (COS205), and Linear Algebra (MAT201), incorporating industry insights into curriculum delivery\nDeveloped LaTeX and Quarto-based lecture materials including slides and notes, improving content delivery and student comprehension metrics\nProvided one-on-one tutoring and structured feedback on coursework, supporting exam preparation and enhancing overall learning experience for both introductory and advanced students\n\n\n\n\nThe Epoch Times | Jul 2022 – Aug 2023\nRemote\n\nProduced 30+ evidence-based health articles garnering 34,000+ social media shares, demonstrating expertise in translating complex medical research for global audience\nCo-coordinated daily health talk show (500k+ YouTube subscribers), facilitating expert discussions on trending health topics and conducting stakeholder interviews\nWriter Profile"
   },
   {
-    "objectID": "qmd/about.html#programming-languages",
-    "href": "qmd/about.html#programming-languages",
+    "objectID": "qmd/about.html#machine-learning-engineer",
+    "href": "qmd/about.html#machine-learning-engineer",
     "title": "Technical Skills",
-    "section": "Programming Languages",
-    "text": "Programming Languages\n  \n\nData Science Frameworks\n         \n\n\nApache Frameworks"
+    "section": "",
+    "text": "Deledao Technologies | Jun 2025 – Present\nHybrid\n\nSpearheaded R&D initiatives for multilingual ML product suite including website classification and student wellness monitoring, optimizing model deployment workflows to achieve 98%+ accuracy on Chinese language classification for Taiwanese market despite resource constraints\nEvaluated 30+ baseline classification models for drug, tobacco, and weapons detection, implementing transformer-based architecture that achieved 91.95% Macro-F1 score on holdout validation set\nAccelerated production-grade deployment timelines through automated preprocessing pipelines and AWS infrastructure optimization, supporting 3x sales volume growth capacity"
+  },
+  {
+    "objectID": "qmd/about.html#technical-solutions-architect-smb",
+    "href": "qmd/about.html#technical-solutions-architect-smb",
+    "title": "Technical Skills",
+    "section": "",
+    "text": "MG SOLUTIONS | Mar 2025 – Present\nRemote\n\nArchitected and executed complete infrastructure migrations for 3+ SMB clients over 1-3 month engagement cycles, transitioning from vendor-locked platforms (GoDaddy, Microsoft 365) to self-hosted VPS environments\nDeployed Docker-based containerized environments on Ubuntu VPS with Nginx Proxy Manager, Cloudflare DNS/DDoS protection, and Prometheus monitoring stacks, achieving 99.5% uptime\nImplemented cost-effective self-hosted solutions including Mailcow email servers and Nextcloud storage platforms, eliminating recurring SaaS subscriptions while maintaining enterprise-grade reliability\nDelivered hands-on technical training to non-technical business owners, enabling autonomous infrastructure management without requiring in-house IT expertise"
+  },
+  {
+    "objectID": "qmd/about.html#crm-data-engineer",
+    "href": "qmd/about.html#crm-data-engineer",
+    "title": "Technical Skills",
+    "section": "",
+    "text": "Deledao Technologies | Aug 2024 – May 2025\nPart-time, Remote\n\nEngineered 7+ post-deal automations for invoicing, provisioning, and data cleanup processes, transitioning company from manual Excel/Google Sheets workflows to integrated HubSpot system\nEliminated 15% redundant company data through systematic CRM cleanup while establishing 5+ cross-department communication channels for improved operational efficiency\nImplemented scalable infrastructure with automated guardrails and business intelligence reporting, enabling 3x sales volume growth without additional manual overhead"
+  },
+  {
+    "objectID": "qmd/about.html#adjunct-instructor-teaching-assistant",
+    "href": "qmd/about.html#adjunct-instructor-teaching-assistant",
+    "title": "Technical Skills",
+    "section": "",
+    "text": "Fei Tian College - Middletown | Jan 2024 – Present\nOn-site\nAdjunct Instructor (Oct 2025 – Present)\n\nCourse Instructor for Linear Algebra (MAT 201), delivering comprehensive instruction to cohort of ~20 undergraduate students\n\nUndergraduate Teaching Assistant (Jan 2024 – Oct 2025)\n\nSupported instruction across 4 courses: Statistics (STA101), Data Mining (DAS331), Data Structures (COS205), and Linear Algebra (MAT201), incorporating industry insights into curriculum delivery\nDeveloped LaTeX and Quarto-based lecture materials including slides and notes, improving content delivery and student comprehension metrics\nProvided one-on-one tutoring and structured feedback on coursework, supporting exam preparation and enhancing overall learning experience for both introductory and advanced students"
+  },
+  {
+    "objectID": "qmd/about.html#technical-writer---health-department",
+    "href": "qmd/about.html#technical-writer---health-department",
+    "title": "Technical Skills",
+    "section": "",
+    "text": "The Epoch Times | Jul 2022 – Aug 2023\nRemote\n\nProduced 30+ evidence-based health articles garnering 34,000+ social media shares, demonstrating expertise in translating complex medical research for global audience\nCo-coordinated daily health talk show (500k+ YouTube subscribers), facilitating expert discussions on trending health topics and conducting stakeholder interviews\nWriter Profile"
+  },
+  {
+    "objectID": "qmd/about.html#fei-tian-college---northern-campus",
+    "href": "qmd/about.html#fei-tian-college---northern-campus",
+    "title": "Technical Skills",
+    "section": "🏛️ Fei Tian College - Northern Campus",
+    "text": "🏛️ Fei Tian College - Northern Campus\nMS in Quantum Computing | GPA: N/A\nSeptember 2025 – May 2027 (expected)\n\nInaugural Candidate for this program (a very polished way of calling myself a lab rat).\n\nBS in Data Science | GPA: 3.79, Magna Cum Laude\nJanuary 2023 – May 2025\nRelevant Coursework:\n\nStatistical Theory and Methods\nMatrix Analysis\nData Mining\nData Structures/Algorithms\nStatistical Computing/Graphics\nFront-End + Software Development\nMachine Learning and Artificial Intelligence\nDatabase Systems\nCloud Computing\nBig Data Engineering"
+  },
+  {
+    "objectID": "qmd/about.html#university-of-zurich",
+    "href": "qmd/about.html#university-of-zurich",
+    "title": "Technical Skills",
+    "section": "🚠 University of Zurich",
+    "text": "🚠 University of Zurich\nBS in Physics | Transferred Out\nOctober 2022 – December 2022\nRelevant Coursework:\n\nLinear Algebra\nReal/Complex Analysis"
+  },
+  {
+    "objectID": "qmd/about.html#data-science-frameworks",
+    "href": "qmd/about.html#data-science-frameworks",
+    "title": "Technical Skills",
+    "section": "Data Science Frameworks",
+    "text": "Data Science Frameworks"
+  },
+  {
+    "objectID": "qmd/about.html#apache-frameworks",
+    "href": "qmd/about.html#apache-frameworks",
+    "title": "Technical Skills",
+    "section": "Apache Frameworks",
+    "text": "Apache Frameworks"
   },
   {
     "objectID": "qmd/about.html#web-development",

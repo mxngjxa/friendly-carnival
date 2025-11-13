@@ -6,9 +6,9 @@ format: html
 
 # 🌟 About Me
 
-Hi, I'm Jacky. I'm a Machine Learning Engineer at [Deledao](https://www.deledao.com) and recently graduated from [Fei Tian College - Middletown](https://feitian.edu/) with a Bachelor of Science in Data Science, *Magna Cum Laude*. 
+Hi, I'm Jacky. I'm a Machine Learning Engineer at [Deledao](https://www.deledao.com) and recently graduated from [Fei Tian College - Northern Campus](https://feitian.edu/) with a Bachelor of Science in Data Science, *Magna Cum Laude*.
 
-I am passionate about technology, leveraging data-driven approaches to solve real-world problems, and continuously expanding my technical skill set. While I mainly focus on the engineering aspect of Machine Learning, I'm no stranger to DevOps, Full-Stack, and engineering. 
+I am passionate about technology, leveraging data-driven approaches to solve real-world problems, and continuously expanding my technical skill set. While I mainly focus on the engineering aspect of Machine Learning, I'm no stranger to DevOps, Full-Stack, the list goes on. 
 
 Since I'm still early in my career, there is a lot to learn from the field. I will continue my education by pursuing a [MS in Quantum Computing](https://qc.northernonline.org/) to stay ahead of the curve while striving to be a part in revolutionizing the K-12 Ed-Tech landscape with Machine Learning. 
 
@@ -24,7 +24,7 @@ Practicing [Falun Dafa](https://faluninfo.net/what-is-falun-gong-falun-dafa/), a
 
 On a social level, I've written for the health department at [The Epoch Times](https://www.theepochtimes.com/author/mingjia-jacky-guan) on topics such as immune exhaustion, soaring egg prices, and everything else in-between. 
 
-At the academic level, I enjoy helping peers and students with their work as a Teaching Assistent and drafting up lecture notes for the next batch of undergraduates. I was able to put my DevOps experience to good use at [Sunregen Healthcare AG](sunregen.com), contracting as a system administrator. 
+At the academic level, I enjoy helping peers and students with their work as an instructor and drafting up lecture notes for the next batch of undergraduates. After putting my DevOps experience to good use at [Sunregen Healthcare AG](sunregen.com), contracting as a system administrator, I am now serving as a Technical Solutions Architect at my own company, [MG Solutions](solutions.mguan.org). [Reach out to me](qmd/contact.qmd) and let's grab a (virtual) coffee to see how I can help you automate and scale your business. 
 
 ![Stowe 2025](figures/stowe.jpeg){fig-align="center"}
 
@@ -88,174 +88,22 @@ and [![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff
 to write those docs, but my goal is to learn [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 to be much faster. 
 
-Of course, I use [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) and [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#), but not any of those common social media platforms like [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#), 
+Of course, I use [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/mxngjxa) and [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#), but not any of those common social media platforms like [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#), 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](#), 
-or [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#). While I have accounts there, you will barely see me posting anything 
+or [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/mxngjxa9). While I have accounts there, you will barely see me posting anything 
 in any case. 
 
 
 
-Please follow me on [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/mingjia-jacky-guan). It's always intersting that even payment methods like [![Apple Pay](https://img.shields.io/badge/Apple%20Pay-000?logo=applepay&logoColor=fff)](#), [![MasterCard](https://img.shields.io/badge/MasterCard-EB001B?logo=mastercard&logoColor=fff)](#), 
+Please follow me on [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mingjia-jacky-guan/). It's always intersting that even payment methods like [![Apple Pay](https://img.shields.io/badge/Apple%20Pay-000?logo=applepay&logoColor=fff)](#), [![MasterCard](https://img.shields.io/badge/MasterCard-EB001B?logo=mastercard&logoColor=fff)](#), 
 [![Visa](https://img.shields.io/badge/Visa-1A1F71?logo=visa&logoColor=fff)](#), 
 [![American Express](https://img.shields.io/badge/American%20Express-2E77BC?logo=americanexpress&logoColor=fff)](#), 
 and [![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)
 all get their own badges. I'm a fan of [![Doordash](https://img.shields.io/badge/DoorDash-FF3008?logo=DoorDash&logoColor=white)](#), preferring it over [![Uber Eats](https://img.shields.io/badge/Uber_Eats-5FB709?logo=uber-eats&logoColor=white)](#) and [![Just Eat](https://img.shields.io/badge/Just%20Eat-F36D00?logo=justeat&logoColor=fff)](#), but that's just my preference. These badges are fun to play around with...
 
 
-
-
-# 💼 Experience
-
-## 🌄 Machine Learning Engineer
-Deledao Technologies | 
-*Jan 2025 – Today*  
-
-- Training, fine-tuning, and deploying a web classification model for the Chinese market.
-
-## 🚃 CRM Data Engineer
-Deledao Technologies | 
-*October 2024 – July 2025*  
-
-- Served as the CRM (HubSpot) admin, ensuring the system runs smoothly and meets the needs of the management and team members.
-- Automated data pipelines to streamline data engineering tasks and improve overall efficiency.
-
-## 🪂 Teaching Assistant
-Fei Tian College - Middletown | 
-*January 2024 – May 2025*  
-
-- Facilitated online student discussions and actively responded to inquiries on the discussion board.
-- Collaborated with professors and students in both introductory and advanced courses to enhance the learning experience, provide structured feedback on coursework, offer one-on-one tutoring, and support exam preparation.
-- Developed lecture materials, including slides and notes, using LaTeX and Quarto to improve content delivery and student comprehension.
-
-## 💡 Health Researcher + Writer
-The Epoch Times | 
-*August 2022 – August 2023*  
-
-- Produced 30+ articles garnering 34,000+ social media shares, demonstrated expertise in creating engaging health content
-by conducting interviews and simplifying complex medical studies for a global audience.
-- [Writer Profile](https://www.theepochtimes.com/author/mingjia-jacky-guan)
-
-# 🎓 Education
-
-## 🏛️ Fei Tian College - Middletown  
-**BS in Data Science | GPA: 3.79, Magna Cum Laude**  
-*January 2023 – May 2025*
-
-Relevant Coursework: 
-
-- Statistical Theory and Methods
-- Matrix Analysis
-- Data Mining
-- Data Structures/Algorithms
-- Statistical Computing/Graphics
-- Front-End + Software Development
-- Machine Learning and Artificial Intelligence
-- Database Systems
-- Cloud Computing
-- Big Data Engineering
-
-## 🚠 University of Zurich  
-**BS in Physics | Transferred Out**  
-*October 2022 – December 2022*
-
-Relevant Coursework: 
-
-- Linear Algebra
-- Real/Complex Analysis
-
-## 🔆 Northern Academy  
-**High School Diploma with Honors | GPA: 3.93**  
-*September 2019 – June 2022*
-
-- National Honor Society
-- Student Council
-- Winter Sports Club
-
-# 🏆 Awards and Certifications
-
-- [**Advanced Machine Learning on Google Cloud**](https://coursera.org/verify/specialization/2OREOAYYR0XL) | Google Cloud – *November 2024*
-- [**Natural Language Processing Specialization**](https://coursera.org/verify/specialization/0Q0GS5AA61BT) | Deeplearning.AI – *November 2024*
-- [**Deep Learning Specialization**](https://coursera.org/verify/specialization/ZYDLK0MFAPPZ) | DeepLearning.AI – *October 2024*
-- [**IBM Data Engineering Professional Certificate**](https://coursera.org/verify/professional-cert/E2S2YHWUTT7M) | IBM – *September 2024*
-- **NYS Comptroller Achievement Award** – *July 2022*
-- 5x Dean’s List, 2x Department Academic Excellence Award – *As of December 2024*
-
-# 🚀 Projects
-
-## ⚙️ Machine Learning + Deep Learning
-
-**Chinese Language Website Classification Model (NLP)**  
-*Jan 2025 - Present*  
-
-- Enhanced accuracy of existing Chinese website classification model by collecting additional training data
-- Developed secondary classification model as additional detection layer to improve content filtering effectiveness
-
-**Deep Neural Networks Foundational Projects**  
-*Sep-Nov 2024*  
-
-- Built a DNN from scratch, implementing backpropagation, gradient descent, and optimization techniques (Adam, RMSprop)
-- Developed CNNs for image classification, neural style transfer, and vehicle detection in autonomous driving using transfer learning
-- Created RNN-based models for text generation and neural machine translation with attention mechanisms
-- Trained a transformer network for named entity recognition (NER) using state-of-the-art attention-based models
-
-## ⚖️ Recommendation Systems + Data Mining
-
-**Locality Sensitive Hashing (LSH) Recommendation System**  
-*May 2025 - Present*  
-
-- Implemented Python package for LSH-based recommendations supporting multiple vectorization algorithms (BERT, TF-IDF)
-- Integrated various hashing algorithms (MinHash, LSH) for efficient similarity detection
-
-## ♻️ Statistical Analysis + Predictive Modeling
-
-**Avocado Price Predictions - USPROC Competition**  
-*Sep-Dec 2024*  
-
-- Designed statistical research project for prestigious American Statistical Association competition
-- Analyzed multi-year avocado market data (2015-2018) using advanced statistical methods
-- Implemented and evaluated multiple regression models (Lasso, Elastic-Net, Robust, Regression Tree) in R
-
-**Big Data EDA Projects using R**  
-*Sep-Dec 2023*  
-
-- Analyzed datasets with 5,000+ variables using R and Tidyverse libraries
-- Produced 5+ comprehensive EDA reports including General Social Survey analysis
-- Performed linear modeling and EDA on obesity dataset with 2100+ rows and 17 features
-
-## 🤿 Data Engineering + Web Development
-
-**Data Engineering Capstone Project**  
-*Sep 2024*  
-
-- Designed and implemented data repositories, pipelines, and warehouses
-- Demonstrated proficiency with relational databases, NoSQL stores, and big data engines
-- Applied Linux shell scripting, SQL, and Python to data engineering problems
-
-**Front End Web Development Projects**  
-*Aug 2022-Dec 2023*  
-
-- Deployed multiple static sites using Netlify with React.js, TypeScript, and TailwindCSS
-- Built online library catalog with UAuth and MongoDB integration
-- Developed Apple Studio Display checkout page replica using React hooks
-
-## 🛰️ Research + Specialized Projects
-
-**Statistics Lecture Notes Compilation**  
-*Jan-Dec 2024*  
-
-- Compiled comprehensive lecture notes for Statistical Theory and Methods (STA211)
-- Created documentation for Statistical Matrix Analysis (STA451) and Applied Linear Regression (STA311)
-
-**Earthquake Signal Precursor Detection**  
-*Oct 2019-Jun 2021*  
-
-- Implemented quad-sensor system for seismic event detection in San Francisco Bay Area
-- Identified anomalies linked to electromagnetic discharge events through data analysis
-- Collaborated on electromagnetic sensor code optimization
-
-
 # 📧 Contact
 
 - **Email:** [mingjia.guan@outlook.com](mailto:mingjia.guan@outlook.com)
 - **LinkedIn:** [Mingjia “Jacky” Guan](https://www.linkedin.com/in/mingjia-jacky-guan/)
-- **GitHub:** [mxngjxa](https://github.com/mxngjxa)
+<!-- - **GitHub:** [mxngjxa](https://github.com/mxngjxa) -->

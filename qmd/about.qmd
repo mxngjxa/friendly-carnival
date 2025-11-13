@@ -2,17 +2,117 @@
 title: "Technical Skills"
 ---
 
-::: {.callout-note}
-I am constantly expanding my skill set, so you can come back to see the new badges I collected. 
-:::
+# 💼 Experience
 
-## Programming Languages
+## 🤖 Machine Learning Engineer
+**Deledao Technologies** | *Jun 2025 – Present*  
+*Hybrid*
+
+- Spearheaded R&D initiatives for multilingual ML product suite including website classification and student wellness monitoring, optimizing model deployment workflows to achieve 98%+ accuracy on Chinese language classification for Taiwanese market despite resource constraints
+- Evaluated 30+ baseline classification models for drug, tobacco, and weapons detection, implementing transformer-based architecture that achieved 91.95% Macro-F1 score on holdout validation set
+- Accelerated production-grade deployment timelines through automated preprocessing pipelines and AWS infrastructure optimization, supporting 3x sales volume growth capacity
+
+
+## 🚀 Technical Solutions Architect (SMB)
+**MG SOLUTIONS** | *Mar 2025 – Present*  
+*Remote*
+
+- Architected and executed complete infrastructure migrations for 3+ SMB clients over 1-3 month engagement cycles, transitioning from vendor-locked platforms (GoDaddy, Microsoft 365) to self-hosted VPS environments
+- Deployed Docker-based containerized environments on Ubuntu VPS with Nginx Proxy Manager, Cloudflare DNS/DDoS protection, and Prometheus monitoring stacks, achieving 99.5% uptime
+- Implemented cost-effective self-hosted solutions including Mailcow email servers and Nextcloud storage platforms, eliminating recurring SaaS subscriptions while maintaining enterprise-grade reliability
+- Delivered hands-on technical training to non-technical business owners, enabling autonomous infrastructure management without requiring in-house IT expertise
+
+## 📊 CRM Data Engineer  
+**Deledao Technologies** | *Aug 2024 – May 2025*  
+*Part-time, Remote*
+
+- Engineered 7+ post-deal automations for invoicing, provisioning, and data cleanup processes, transitioning company from manual Excel/Google Sheets workflows to integrated HubSpot system
+- Eliminated 15% redundant company data through systematic CRM cleanup while establishing 5+ cross-department communication channels for improved operational efficiency
+- Implemented scalable infrastructure with automated guardrails and business intelligence reporting, enabling 3x sales volume growth without additional manual overhead
+
+## 🎓 Adjunct Instructor & Teaching Assistant
+**Fei Tian College - Middletown** | *Jan 2024 – Present*  
+*On-site*
+
+**Adjunct Instructor** (*Oct 2025 – Present*)
+
+- Course Instructor for Linear Algebra (MAT 201), delivering comprehensive instruction to cohort of ~20 undergraduate students
+
+**Undergraduate Teaching Assistant** (*Jan 2024 – Oct 2025*)
+
+- Supported instruction across 4 courses: Statistics (STA101), Data Mining (DAS331), Data Structures (COS205), and Linear Algebra (MAT201), incorporating industry insights into curriculum delivery
+- Developed LaTeX and Quarto-based lecture materials including slides and notes, improving content delivery and student comprehension metrics
+- Provided one-on-one tutoring and structured feedback on coursework, supporting exam preparation and enhancing overall learning experience for both introductory and advanced students
+
+## ✍️ Technical Writer - Health Department
+**The Epoch Times** | *Jul 2022 – Aug 2023*  
+*Remote*
+
+- Produced 30+ evidence-based health articles garnering 34,000+ social media shares, demonstrating expertise in translating complex medical research for global audience
+- Co-coordinated daily health talk show (500k+ YouTube subscribers), facilitating expert discussions on trending health topics and conducting stakeholder interviews
+- [Writer Profile](https://www.theepochtimes.com/author/mingjia-jacky-guan)
+
+
+
+# 🎓 Education
+
+## 🏛️ Fei Tian College - Northern Campus  
+**MS in Quantum Computing | GPA: N/A**  
+*September 2025 – May 2027 (expected)*
+
+- Inaugural Candidate for this program (a very polished way of calling myself a lab rat). 
+
+**BS in Data Science | GPA: 3.79, Magna Cum Laude**  
+*January 2023 – May 2025*
+
+Relevant Coursework: 
+
+- Statistical Theory and Methods
+- Matrix Analysis
+- Data Mining
+- Data Structures/Algorithms
+- Statistical Computing/Graphics
+- Front-End + Software Development
+- Machine Learning and Artificial Intelligence
+- Database Systems
+- Cloud Computing
+- Big Data Engineering
+
+## 🚠 University of Zurich  
+**BS in Physics | Transferred Out**  
+*October 2022 – December 2022*
+
+Relevant Coursework: 
+
+- Linear Algebra
+- Real/Complex Analysis
+
+<!-- ## 🔆 Northern Academy  
+**High School Diploma with Honors | GPA: 3.93**  
+*September 2019 – June 2022*
+
+- National Honor Society
+- Student Council
+- Winter Sports Club -->
+
+# 🏆 Certifications
+
+- [**IBM Deep Learning with PyTorch, Keras and Tensorflow**](https://coursera.org/verify/professional-cert/G0WKT4D5EPS6) | IBM – *November 2025*
+- [**Advanced Machine Learning on Google Cloud**](https://coursera.org/verify/specialization/2OREOAYYR0XL) | Google Cloud – *November 2024*
+- [**Natural Language Processing Specialization**](https://coursera.org/verify/specialization/0Q0GS5AA61BT) | Deeplearning.AI – *November 2024*
+- [**Deep Learning Specialization**](https://coursera.org/verify/specialization/ZYDLK0MFAPPZ) | DeepLearning.AI – *October 2024*
+- [**IBM Data Engineering Professional Certificate**](https://coursera.org/verify/professional-cert/E2S2YHWUTT7M) | IBM – *September 2024*
+- **NYS Comptroller Achievement Award** – *July 2022*
+- 5x Dean’s List, 2x Department Academic Excellence Award – *As of December 2024*
+
+
+# ⌨️ Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Data Science Frameworks
+## Data Science Frameworks
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -25,7 +125,7 @@ I am constantly expanding my skill set, so you can come back to see the new badg
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tidyverse](https://img.shields.io/badge/Tidyverse-1A162D?style=for-the-badge&logo=r&logoColor=white)
 
-### Apache Frameworks
+## Apache Frameworks
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
