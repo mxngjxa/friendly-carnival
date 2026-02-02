@@ -6,11 +6,11 @@ format: html
 
 # 🌟 About Me
 
-Hi, I'm Jacky. I'm a Machine Learning Engineer at [Deledao](https://www.deledao.com) and recently graduated from [Fei Tian College - Northern Campus](https://feitian.edu/) with a Bachelor of Science in Data Science, *Magna Cum Laude*.
+Hi, I'm Jacky. I'm a Member of Technical Staff - AI at [micro1](https://www.micro1.ai/). I was formally a Machine Learning Engineer at [Deledao](https://www.deledao.com) and graduated from [Fei Tian College - Northern Campus](https://feitian.edu/) with a Bachelor of Science in Data Science, *Magna Cum Laude*.
 
 I am passionate about technology, leveraging data-driven approaches to solve real-world problems, and continuously expanding my technical skill set. While I mainly focus on the engineering aspect of Machine Learning, I'm no stranger to DevOps, Full-Stack, the list goes on. 
 
-Since I'm still early in my career, there is a lot to learn from the field. I will continue my education by pursuing a [MS in Quantum Computing](https://qc.northernonline.org/) to stay ahead of the curve while striving to be a part in revolutionizing the K-12 Ed-Tech landscape with Machine Learning. 
+While working full time as MTS, I will continue my education by pursuing a [MS in Quantum Computing](https://qc.northernonline.org/) to stay ahead of the curve while striving to be a part of the next wave of technology in AI. A bit unsettling, but also fascinating to watch the world evolve.  
 
 ::: {.callout-tip appearance="simple"}
 ## However...
@@ -24,7 +24,7 @@ Practicing [Falun Dafa](https://faluninfo.net/what-is-falun-gong-falun-dafa/), a
 
 On a social level, I've written for the health department at [The Epoch Times](https://www.theepochtimes.com/author/mingjia-jacky-guan) on topics such as immune exhaustion, soaring egg prices, and everything else in-between. 
 
-At the academic level, I enjoy helping peers and students with their work as an instructor and drafting up lecture notes for the next batch of undergraduates. After putting my DevOps experience to good use at [Sunregen Healthcare AG](sunregen.com), contracting as a system administrator, I am now serving as a Technical Solutions Architect at my own company, [MG Solutions](solutions.mguan.org). [Reach out to me](qmd/contact.qmd) and let's grab a (virtual) coffee to see how I can help you automate and scale your business. 
+At the academic level, I enjoy helping peers and students with their work as an instructor and drafting up lecture notes for the next batch of undergraduates. After putting my DevOps experience to good use at [Sunregen Healthcare AG](sunregen.com), contracting as a system administrator, I am now serving as a Technical Solutions Architect at my own company, [MG Solutions](mguan.tech). [Reach out to me](qmd/contact.qmd) and let's grab a (virtual) coffee to see how I can help you automate and scale your business. 
 
 ![Stowe 2025](figures/stowe.jpeg){fig-align="center"}
 

@@ -36,5 +36,5 @@ format:
       light: minty
       dark: brand.scss
     mainfont: "Roboto Mono"
-    monofont: "MesloLGS NF"
+    # monofont: "MesloLGS NF"
     toc: true
