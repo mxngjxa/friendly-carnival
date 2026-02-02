@@ -4,8 +4,14 @@ title: "Technical Skills"
 
 # 💼 Experience
 
+## 🚀 Member of Technical Staff - AI
+**micro1** | *Jun 2025 – Present*  
+*Remote*
+
+- Building the platform for human intelligence. 
+
 ## 🤖 Machine Learning Engineer
-**Deledao Technologies** | *Jun 2025 – Present*  
+**Deledao Technologies** | *Jun 2025 – Dec 2025*  
 *Hybrid*
 
 - Spearheaded R&D initiatives for multilingual ML product suite including website classification and student wellness monitoring, optimizing model deployment workflows to achieve 98%+ accuracy on Chinese language classification for Taiwanese market despite resource constraints

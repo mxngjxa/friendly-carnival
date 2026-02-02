@@ -32,6 +32,6 @@ typography:
   headings:
     family: 'Roboto Mono'
     weight: 700
-  monospace: 'MesloLGS NF'  # Use custom font MesloLGS NF for monospace
+  # monospace: 'MesloLGS NF'  # Use custom font MesloLGS NF for monospace
 
 
